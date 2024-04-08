@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::4.85] 
-[geo-lat::51.95] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::4.85] 
+[has_place_latitude::51.95] 
 [name::Schoonhoven] 
 State ::  
 Country :: [[Netherlands]]  

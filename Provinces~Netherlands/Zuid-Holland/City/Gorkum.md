@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::4.97] 
-[geo-lat::51.83] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::4.97] 
+[has_place_latitude::51.83] 
 [name::Gorkum] 
 State ::  
 Country :: [[Netherlands]]  

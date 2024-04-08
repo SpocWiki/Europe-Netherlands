@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::6.72] 
-[geo-lat::51.97] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::6.72] 
+[has_place_latitude::51.97] 
 [name::Winterswijk] 
 State ::  
 Country :: [[Netherlands]]  

@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::5.32] 
-[geo-lat::52.18] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::5.32] 
+[has_place_latitude::52.18] 
 [name::Soestdijk] 
 State ::  
 Country :: [[Netherlands]]  

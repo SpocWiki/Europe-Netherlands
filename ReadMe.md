@@ -131,8 +131,10 @@ Capital :: [[Amsterdam]]
 
 [Alcohol-l::10.1] 
 [Language-Id::] 
-[geo-lon::5.08828] 
-[geo-lat::51.9757] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::5.08828] 
+[has_place_latitude::51.9757] 
 
 
 

@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::4.36] 
-[geo-lat::52.11] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::4.36] 
+[has_place_latitude::52.11] 
 [name::Delft] 
 State ::  
 Country :: [[Netherlands]]  

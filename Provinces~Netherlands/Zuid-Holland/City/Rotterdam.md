@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::4.48] 
-[geo-lat::51.91] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::4.48] 
+[has_place_latitude::51.91] 
 [name::Rotterdam] 
 State ::  
 Country :: [[Netherlands]]  

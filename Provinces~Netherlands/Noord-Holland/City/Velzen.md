@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::4.65] 
-[geo-lat::52.47] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::4.65] 
+[has_place_latitude::52.47] 
 [name::Velzen] 
 State ::  
 Country :: [[Netherlands]]  

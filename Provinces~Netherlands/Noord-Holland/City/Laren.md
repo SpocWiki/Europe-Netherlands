@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::5.23] 
-[geo-lat::52.25] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::5.23] 
+[has_place_latitude::52.25] 
 [name::Laren] 
 State ::  
 Country :: [[Netherlands]]  

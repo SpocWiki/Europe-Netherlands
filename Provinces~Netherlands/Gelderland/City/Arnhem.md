@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::5.92] 
-[geo-lat::51.98] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::5.92] 
+[has_place_latitude::51.98] 
 [name::Arnhem] 
 State ::  
 Country :: [[Netherlands]]  

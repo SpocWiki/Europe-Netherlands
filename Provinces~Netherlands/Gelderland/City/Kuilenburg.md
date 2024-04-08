@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::5.23] 
-[geo-lat::51.97] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::5.23] 
+[has_place_latitude::51.97] 
 [name::Kuilenburg] 
 State ::  
 Country :: [[Netherlands]]  

@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::6.23] 
-[geo-lat::52.13] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::6.23] 
+[has_place_latitude::52.13] 
 [name::Warnsveld] 
 State ::  
 Country :: [[Netherlands]]  

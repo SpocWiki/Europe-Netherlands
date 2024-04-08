@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::4.9] 
-[geo-lat::52.36] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::4.9] 
+[has_place_latitude::52.36] 
 [name::Amsterdam] 
 State ::  
 Country :: [[Netherlands]]  

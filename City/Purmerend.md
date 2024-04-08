@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::4.95] 
-[geo-lat::53.52] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::4.95] 
+[has_place_latitude::53.52] 
 [name::Purmerend] 
 State ::  
 Country :: [[Netherlands]]  

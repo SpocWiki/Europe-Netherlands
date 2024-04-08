@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::6.12] 
-[geo-lat::52.78] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::6.12] 
+[has_place_latitude::52.78] 
 [name::Steenwijk] 
 State ::  
 Country :: [[Netherlands]]  

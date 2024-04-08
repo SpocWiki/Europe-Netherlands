@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::5.3] 
-[geo-lat::41.67] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::5.3] 
+[has_place_latitude::41.67] 
 [name::Den Bosch] 
 State ::  
 Country :: [[Netherlands]]  

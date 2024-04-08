@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::5.67] 
-[geo-lat::51.48] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::5.67] 
+[has_place_latitude::51.48] 
 [name::Helmond] 
 State ::  
 Country :: [[Netherlands]]  

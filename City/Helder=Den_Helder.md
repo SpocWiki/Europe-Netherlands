@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::4.75] 
-[geo-lat::52.97] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::4.75] 
+[has_place_latitude::52.97] 
 [name::Helder=Den Helder] 
 State ::  
 Country :: [[Netherlands]]  
