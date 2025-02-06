@@ -1,16 +1,19 @@
 ---
-location: [52.1,4] 
-mapzoom: [7,12] 
-mapmarker: city 
+location:
+  - 52.1
+  - 4
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 29748
 isDeleted: false
 confidential: public
-
+aliases:
+  - The Hague
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 
