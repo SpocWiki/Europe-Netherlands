@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Netherlands/City/Geerdruidenberg|Geerdruidenberg]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Netherlands/City/Geerdruidenberg.public|Geerdruidenberg.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Netherlands/City/Geerdruidenberg.internal|Geerdruidenberg.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Netherlands/City/Geerdruidenberg.protect|Geerdruidenberg.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Netherlands/City/Geerdruidenberg.private|Geerdruidenberg.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Netherlands/City/Geerdruidenberg.personal|Geerdruidenberg.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Netherlands/City/Geerdruidenberg.secret|Geerdruidenberg.secret]] 
+
+### [Geerdruidenberg.public](/_public/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Brabant\CityGeerdruidenberg.public.md) 
+
+### [Geerdruidenberg.internal](/_internal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Brabant\CityGeerdruidenberg.internal.md) 
+
+### [Geerdruidenberg.protect](/_protect/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Brabant\CityGeerdruidenberg.protect.md) 
+
+### [Geerdruidenberg.private](/_private/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Brabant\CityGeerdruidenberg.private.md) 
+
+### [Geerdruidenberg.personal](/_personal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Brabant\CityGeerdruidenberg.personal.md) 
+
+### [Geerdruidenberg.secret](/_secret/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Brabant\CityGeerdruidenberg.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Netherlands/City/Utrecht|Utrecht]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Netherlands/City/Utrecht.public|Utrecht.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Netherlands/City/Utrecht.internal|Utrecht.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Netherlands/City/Utrecht.protect|Utrecht.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Netherlands/City/Utrecht.private|Utrecht.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Netherlands/City/Utrecht.personal|Utrecht.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Netherlands/City/Utrecht.secret|Utrecht.secret]] 
+
+### [Utrecht,City.public](/_public/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Utrecht,Province\counties~Utrecht\Utrecht-countyUtrecht,City.public.md) 
+
+### [Utrecht,City.internal](/_internal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Utrecht,Province\counties~Utrecht\Utrecht-countyUtrecht,City.internal.md) 
+
+### [Utrecht,City.protect](/_protect/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Utrecht,Province\counties~Utrecht\Utrecht-countyUtrecht,City.protect.md) 
+
+### [Utrecht,City.private](/_private/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Utrecht,Province\counties~Utrecht\Utrecht-countyUtrecht,City.private.md) 
+
+### [Utrecht,City.personal](/_personal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Utrecht,Province\counties~Utrecht\Utrecht-countyUtrecht,City.personal.md) 
+
+### [Utrecht,City.secret](/_secret/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Utrecht,Province\counties~Utrecht\Utrecht-countyUtrecht,City.secret.md)
+

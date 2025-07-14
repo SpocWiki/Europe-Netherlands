@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Netherlands/City/Heusden|Heusden]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Netherlands/City/Heusden.public|Heusden.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Netherlands/City/Heusden.internal|Heusden.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Netherlands/City/Heusden.protect|Heusden.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Netherlands/City/Heusden.private|Heusden.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Netherlands/City/Heusden.personal|Heusden.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Netherlands/City/Heusden.secret|Heusden.secret]] 
+
+### [Heusden.public](/_public/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Brabant\CityHeusden.public.md) 
+
+### [Heusden.internal](/_internal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Brabant\CityHeusden.internal.md) 
+
+### [Heusden.protect](/_protect/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Brabant\CityHeusden.protect.md) 
+
+### [Heusden.private](/_private/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Brabant\CityHeusden.private.md) 
+
+### [Heusden.personal](/_personal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Brabant\CityHeusden.personal.md) 
+
+### [Heusden.secret](/_secret/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Brabant\CityHeusden.secret.md)
+

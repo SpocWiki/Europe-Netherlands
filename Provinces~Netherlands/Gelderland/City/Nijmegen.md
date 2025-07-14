@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Netherlands/City/Nijmegen|Nijmegen]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Netherlands/City/Nijmegen.public|Nijmegen.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Netherlands/City/Nijmegen.internal|Nijmegen.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Netherlands/City/Nijmegen.protect|Nijmegen.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Netherlands/City/Nijmegen.private|Nijmegen.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Netherlands/City/Nijmegen.personal|Nijmegen.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Netherlands/City/Nijmegen.secret|Nijmegen.secret]] 
+
+### [Nijmegen.public](/_public/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Gelderland\CityNijmegen.public.md) 
+
+### [Nijmegen.internal](/_internal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Gelderland\CityNijmegen.internal.md) 
+
+### [Nijmegen.protect](/_protect/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Gelderland\CityNijmegen.protect.md) 
+
+### [Nijmegen.private](/_private/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Gelderland\CityNijmegen.private.md) 
+
+### [Nijmegen.personal](/_personal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Gelderland\CityNijmegen.personal.md) 
+
+### [Nijmegen.secret](/_secret/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Gelderland\CityNijmegen.secret.md)
+

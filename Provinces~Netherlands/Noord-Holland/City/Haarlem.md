@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Netherlands/City/Haarlem|Haarlem]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Netherlands/City/Haarlem.public|Haarlem.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Netherlands/City/Haarlem.internal|Haarlem.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Netherlands/City/Haarlem.protect|Haarlem.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Netherlands/City/Haarlem.private|Haarlem.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Netherlands/City/Haarlem.personal|Haarlem.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Netherlands/City/Haarlem.secret|Haarlem.secret]] 
+
+### [Haarlem.public](/_public/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Holland\CityHaarlem.public.md) 
+
+### [Haarlem.internal](/_internal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Holland\CityHaarlem.internal.md) 
+
+### [Haarlem.protect](/_protect/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Holland\CityHaarlem.protect.md) 
+
+### [Haarlem.private](/_private/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Holland\CityHaarlem.private.md) 
+
+### [Haarlem.personal](/_personal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Holland\CityHaarlem.personal.md) 
+
+### [Haarlem.secret](/_secret/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Holland\CityHaarlem.secret.md)
+

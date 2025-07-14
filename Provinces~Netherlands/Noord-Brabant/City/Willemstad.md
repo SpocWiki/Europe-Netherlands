@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Netherlands/City/Willemstad|Willemstad]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Netherlands/City/Willemstad.public|Willemstad.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Netherlands/City/Willemstad.internal|Willemstad.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Netherlands/City/Willemstad.protect|Willemstad.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Netherlands/City/Willemstad.private|Willemstad.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Netherlands/City/Willemstad.personal|Willemstad.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Netherlands/City/Willemstad.secret|Willemstad.secret]] 
+
+### [Willemstad.public](/_public/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Brabant\CityWillemstad.public.md) 
+
+### [Willemstad.internal](/_internal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Brabant\CityWillemstad.internal.md) 
+
+### [Willemstad.protect](/_protect/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Brabant\CityWillemstad.protect.md) 
+
+### [Willemstad.private](/_private/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Brabant\CityWillemstad.private.md) 
+
+### [Willemstad.personal](/_personal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Brabant\CityWillemstad.personal.md) 
+
+### [Willemstad.secret](/_secret/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Brabant\CityWillemstad.secret.md)
+

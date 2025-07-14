@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Netherlands/City/Hilversum|Hilversum]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Netherlands/City/Hilversum.public|Hilversum.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Netherlands/City/Hilversum.internal|Hilversum.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Netherlands/City/Hilversum.protect|Hilversum.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Netherlands/City/Hilversum.private|Hilversum.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Netherlands/City/Hilversum.personal|Hilversum.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Netherlands/City/Hilversum.secret|Hilversum.secret]] 
+
+### [Hilversum.public](/_public/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Holland\CityHilversum.public.md) 
+
+### [Hilversum.internal](/_internal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Holland\CityHilversum.internal.md) 
+
+### [Hilversum.protect](/_protect/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Holland\CityHilversum.protect.md) 
+
+### [Hilversum.private](/_private/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Holland\CityHilversum.private.md) 
+
+### [Hilversum.personal](/_personal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Holland\CityHilversum.personal.md) 
+
+### [Hilversum.secret](/_secret/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Holland\CityHilversum.secret.md)
+

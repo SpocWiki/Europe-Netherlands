@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Netherlands/City/Steenwijk|Steenwijk]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Netherlands/City/Steenwijk.public|Steenwijk.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Netherlands/City/Steenwijk.internal|Steenwijk.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Netherlands/City/Steenwijk.protect|Steenwijk.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Netherlands/City/Steenwijk.private|Steenwijk.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Netherlands/City/Steenwijk.personal|Steenwijk.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Netherlands/City/Steenwijk.secret|Steenwijk.secret]] 
+
+### [Steenwijk.public](/_public/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Overijssel\CitySteenwijk.public.md) 
+
+### [Steenwijk.internal](/_internal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Overijssel\CitySteenwijk.internal.md) 
+
+### [Steenwijk.protect](/_protect/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Overijssel\CitySteenwijk.protect.md) 
+
+### [Steenwijk.private](/_private/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Overijssel\CitySteenwijk.private.md) 
+
+### [Steenwijk.personal](/_personal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Overijssel\CitySteenwijk.personal.md) 
+
+### [Steenwijk.secret](/_secret/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Overijssel\CitySteenwijk.secret.md)
+

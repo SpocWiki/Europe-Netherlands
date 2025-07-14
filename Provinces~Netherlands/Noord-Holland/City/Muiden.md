@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Netherlands/City/Muiden|Muiden]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Netherlands/City/Muiden.public|Muiden.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Netherlands/City/Muiden.internal|Muiden.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Netherlands/City/Muiden.protect|Muiden.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Netherlands/City/Muiden.private|Muiden.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Netherlands/City/Muiden.personal|Muiden.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Netherlands/City/Muiden.secret|Muiden.secret]] 
+
+### [Muiden.public](/_public/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Holland\CityMuiden.public.md) 
+
+### [Muiden.internal](/_internal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Holland\CityMuiden.internal.md) 
+
+### [Muiden.protect](/_protect/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Holland\CityMuiden.protect.md) 
+
+### [Muiden.private](/_private/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Holland\CityMuiden.private.md) 
+
+### [Muiden.personal](/_personal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Holland\CityMuiden.personal.md) 
+
+### [Muiden.secret](/_secret/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Holland\CityMuiden.secret.md)
+

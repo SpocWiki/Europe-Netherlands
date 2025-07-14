@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Netherlands/City/Woerden|Woerden]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Netherlands/City/Woerden.public|Woerden.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Netherlands/City/Woerden.internal|Woerden.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Netherlands/City/Woerden.protect|Woerden.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Netherlands/City/Woerden.private|Woerden.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Netherlands/City/Woerden.personal|Woerden.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Netherlands/City/Woerden.secret|Woerden.secret]] 
+
+### [Woerden.public](/_public/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Utrecht,Province\counties~Utrecht\WoerdenWoerden.public.md) 
+
+### [Woerden.internal](/_internal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Utrecht,Province\counties~Utrecht\WoerdenWoerden.internal.md) 
+
+### [Woerden.protect](/_protect/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Utrecht,Province\counties~Utrecht\WoerdenWoerden.protect.md) 
+
+### [Woerden.private](/_private/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Utrecht,Province\counties~Utrecht\WoerdenWoerden.private.md) 
+
+### [Woerden.personal](/_personal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Utrecht,Province\counties~Utrecht\WoerdenWoerden.personal.md) 
+
+### [Woerden.secret](/_secret/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Utrecht,Province\counties~Utrecht\WoerdenWoerden.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Netherlands/City/Schiedam|Schiedam]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Netherlands/City/Schiedam.public|Schiedam.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Netherlands/City/Schiedam.internal|Schiedam.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Netherlands/City/Schiedam.protect|Schiedam.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Netherlands/City/Schiedam.private|Schiedam.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Netherlands/City/Schiedam.personal|Schiedam.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Netherlands/City/Schiedam.secret|Schiedam.secret]] 
+
+### [Schiedam.public](/_public/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zuid-Holland\CitySchiedam.public.md) 
+
+### [Schiedam.internal](/_internal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zuid-Holland\CitySchiedam.internal.md) 
+
+### [Schiedam.protect](/_protect/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zuid-Holland\CitySchiedam.protect.md) 
+
+### [Schiedam.private](/_private/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zuid-Holland\CitySchiedam.private.md) 
+
+### [Schiedam.personal](/_personal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zuid-Holland\CitySchiedam.personal.md) 
+
+### [Schiedam.secret](/_secret/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zuid-Holland\CitySchiedam.secret.md)
+

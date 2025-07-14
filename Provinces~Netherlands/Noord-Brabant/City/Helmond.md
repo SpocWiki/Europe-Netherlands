@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Netherlands/City/Helmond|Helmond]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Netherlands/City/Helmond.public|Helmond.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Netherlands/City/Helmond.internal|Helmond.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Netherlands/City/Helmond.protect|Helmond.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Netherlands/City/Helmond.private|Helmond.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Netherlands/City/Helmond.personal|Helmond.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Netherlands/City/Helmond.secret|Helmond.secret]] 
+
+### [Helmond.public](/_public/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Brabant\CityHelmond.public.md) 
+
+### [Helmond.internal](/_internal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Brabant\CityHelmond.internal.md) 
+
+### [Helmond.protect](/_protect/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Brabant\CityHelmond.protect.md) 
+
+### [Helmond.private](/_private/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Brabant\CityHelmond.private.md) 
+
+### [Helmond.personal](/_personal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Brabant\CityHelmond.personal.md) 
+
+### [Helmond.secret](/_secret/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Brabant\CityHelmond.secret.md)
+

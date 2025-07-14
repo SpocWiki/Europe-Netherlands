@@ -40,11 +40,16 @@ markerFolder: ./Zeeland/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Netherlands/Counties/Zeeland|Zeeland]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Netherlands/Counties/Zeeland.public|Zeeland.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Netherlands/Counties/Zeeland.internal|Zeeland.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Netherlands/Counties/Zeeland.protect|Zeeland.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Netherlands/Counties/Zeeland.private|Zeeland.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Netherlands/Counties/Zeeland.personal|Zeeland.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Netherlands/Counties/Zeeland.secret|Zeeland.secret]] 
+
+### [Zeeland.public](/_public/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~NetherlandsZeeland.public.md) 
+
+### [Zeeland.internal](/_internal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~NetherlandsZeeland.internal.md) 
+
+### [Zeeland.protect](/_protect/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~NetherlandsZeeland.protect.md) 
+
+### [Zeeland.private](/_private/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~NetherlandsZeeland.private.md) 
+
+### [Zeeland.personal](/_personal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~NetherlandsZeeland.personal.md) 
+
+### [Zeeland.secret](/_secret/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~NetherlandsZeeland.secret.md)
 

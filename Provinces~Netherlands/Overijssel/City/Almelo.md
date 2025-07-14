@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Netherlands/City/Almelo|Almelo]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Netherlands/City/Almelo.public|Almelo.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Netherlands/City/Almelo.internal|Almelo.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Netherlands/City/Almelo.protect|Almelo.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Netherlands/City/Almelo.private|Almelo.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Netherlands/City/Almelo.personal|Almelo.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Netherlands/City/Almelo.secret|Almelo.secret]] 
+
+### [Almelo.public](/_public/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Overijssel\CityAlmelo.public.md) 
+
+### [Almelo.internal](/_internal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Overijssel\CityAlmelo.internal.md) 
+
+### [Almelo.protect](/_protect/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Overijssel\CityAlmelo.protect.md) 
+
+### [Almelo.private](/_private/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Overijssel\CityAlmelo.private.md) 
+
+### [Almelo.personal](/_personal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Overijssel\CityAlmelo.personal.md) 
+
+### [Almelo.secret](/_secret/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Overijssel\CityAlmelo.secret.md)
+

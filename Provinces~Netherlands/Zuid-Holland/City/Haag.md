@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Netherlands/City/Haag|Haag]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Netherlands/City/Haag.public|Haag.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Netherlands/City/Haag.internal|Haag.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Netherlands/City/Haag.protect|Haag.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Netherlands/City/Haag.private|Haag.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Netherlands/City/Haag.personal|Haag.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Netherlands/City/Haag.secret|Haag.secret]] 
+
+### [Haag.public](/_public/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zuid-Holland\CityHaag.public.md) 
+
+### [Haag.internal](/_internal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zuid-Holland\CityHaag.internal.md) 
+
+### [Haag.protect](/_protect/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zuid-Holland\CityHaag.protect.md) 
+
+### [Haag.private](/_private/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zuid-Holland\CityHaag.private.md) 
+
+### [Haag.personal](/_personal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zuid-Holland\CityHaag.personal.md) 
+
+### [Haag.secret](/_secret/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zuid-Holland\CityHaag.secret.md)
+

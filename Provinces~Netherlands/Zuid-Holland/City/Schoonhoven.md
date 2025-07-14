@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Netherlands/City/Schoonhoven|Schoonhoven]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Netherlands/City/Schoonhoven.public|Schoonhoven.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Netherlands/City/Schoonhoven.internal|Schoonhoven.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Netherlands/City/Schoonhoven.protect|Schoonhoven.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Netherlands/City/Schoonhoven.private|Schoonhoven.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Netherlands/City/Schoonhoven.personal|Schoonhoven.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Netherlands/City/Schoonhoven.secret|Schoonhoven.secret]] 
+
+### [Schoonhoven.public](/_public/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zuid-Holland\CitySchoonhoven.public.md) 
+
+### [Schoonhoven.internal](/_internal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zuid-Holland\CitySchoonhoven.internal.md) 
+
+### [Schoonhoven.protect](/_protect/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zuid-Holland\CitySchoonhoven.protect.md) 
+
+### [Schoonhoven.private](/_private/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zuid-Holland\CitySchoonhoven.private.md) 
+
+### [Schoonhoven.personal](/_personal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zuid-Holland\CitySchoonhoven.personal.md) 
+
+### [Schoonhoven.secret](/_secret/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zuid-Holland\CitySchoonhoven.secret.md)
+

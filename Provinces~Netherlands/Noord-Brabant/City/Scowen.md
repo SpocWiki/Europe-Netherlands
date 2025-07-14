@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Netherlands/City/Scowen|Scowen]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Netherlands/City/Scowen.public|Scowen.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Netherlands/City/Scowen.internal|Scowen.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Netherlands/City/Scowen.protect|Scowen.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Netherlands/City/Scowen.private|Scowen.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Netherlands/City/Scowen.personal|Scowen.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Netherlands/City/Scowen.secret|Scowen.secret]] 
+
+### [Scowen.public](/_public/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Brabant\CityScowen.public.md) 
+
+### [Scowen.internal](/_internal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Brabant\CityScowen.internal.md) 
+
+### [Scowen.protect](/_protect/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Brabant\CityScowen.protect.md) 
+
+### [Scowen.private](/_private/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Brabant\CityScowen.private.md) 
+
+### [Scowen.personal](/_personal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Brabant\CityScowen.personal.md) 
+
+### [Scowen.secret](/_secret/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Brabant\CityScowen.secret.md)
+

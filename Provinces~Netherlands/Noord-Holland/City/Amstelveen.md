@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Netherlands/City/Amstelveen|Amstelveen]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Netherlands/City/Amstelveen.public|Amstelveen.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Netherlands/City/Amstelveen.internal|Amstelveen.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Netherlands/City/Amstelveen.protect|Amstelveen.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Netherlands/City/Amstelveen.private|Amstelveen.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Netherlands/City/Amstelveen.personal|Amstelveen.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Netherlands/City/Amstelveen.secret|Amstelveen.secret]] 
+
+### [Amstelveen.public](/_public/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Holland\CityAmstelveen.public.md) 
+
+### [Amstelveen.internal](/_internal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Holland\CityAmstelveen.internal.md) 
+
+### [Amstelveen.protect](/_protect/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Holland\CityAmstelveen.protect.md) 
+
+### [Amstelveen.private](/_private/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Holland\CityAmstelveen.private.md) 
+
+### [Amstelveen.personal](/_personal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Holland\CityAmstelveen.personal.md) 
+
+### [Amstelveen.secret](/_secret/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Holland\CityAmstelveen.secret.md)
+

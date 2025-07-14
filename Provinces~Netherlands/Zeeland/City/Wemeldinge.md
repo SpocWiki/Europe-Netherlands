@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Netherlands/City/Wemeldinge|Wemeldinge]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Netherlands/City/Wemeldinge.public|Wemeldinge.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Netherlands/City/Wemeldinge.internal|Wemeldinge.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Netherlands/City/Wemeldinge.protect|Wemeldinge.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Netherlands/City/Wemeldinge.private|Wemeldinge.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Netherlands/City/Wemeldinge.personal|Wemeldinge.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Netherlands/City/Wemeldinge.secret|Wemeldinge.secret]] 
+
+### [Wemeldinge.public](/_public/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zeeland\CityWemeldinge.public.md) 
+
+### [Wemeldinge.internal](/_internal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zeeland\CityWemeldinge.internal.md) 
+
+### [Wemeldinge.protect](/_protect/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zeeland\CityWemeldinge.protect.md) 
+
+### [Wemeldinge.private](/_private/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zeeland\CityWemeldinge.private.md) 
+
+### [Wemeldinge.personal](/_personal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zeeland\CityWemeldinge.personal.md) 
+
+### [Wemeldinge.secret](/_secret/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zeeland\CityWemeldinge.secret.md)
+

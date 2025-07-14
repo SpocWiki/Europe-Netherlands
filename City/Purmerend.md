@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Netherlands/City/Purmerend|Purmerend]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Netherlands/City/Purmerend.public|Purmerend.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Netherlands/City/Purmerend.internal|Purmerend.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Netherlands/City/Purmerend.protect|Purmerend.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Netherlands/City/Purmerend.private|Purmerend.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Netherlands/City/Purmerend.personal|Purmerend.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Netherlands/City/Purmerend.secret|Purmerend.secret]] 
+
+### [Purmerend.public](/_public/\Earth\Continent\Europe\Europe~West\Netherlands\CityPurmerend.public.md) 
+
+### [Purmerend.internal](/_internal/\Earth\Continent\Europe\Europe~West\Netherlands\CityPurmerend.internal.md) 
+
+### [Purmerend.protect](/_protect/\Earth\Continent\Europe\Europe~West\Netherlands\CityPurmerend.protect.md) 
+
+### [Purmerend.private](/_private/\Earth\Continent\Europe\Europe~West\Netherlands\CityPurmerend.private.md) 
+
+### [Purmerend.personal](/_personal/\Earth\Continent\Europe\Europe~West\Netherlands\CityPurmerend.personal.md) 
+
+### [Purmerend.secret](/_secret/\Earth\Continent\Europe\Europe~West\Netherlands\CityPurmerend.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Netherlands/City/Scheveningen|Scheveningen]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Netherlands/City/Scheveningen.public|Scheveningen.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Netherlands/City/Scheveningen.internal|Scheveningen.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Netherlands/City/Scheveningen.protect|Scheveningen.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Netherlands/City/Scheveningen.private|Scheveningen.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Netherlands/City/Scheveningen.personal|Scheveningen.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Netherlands/City/Scheveningen.secret|Scheveningen.secret]] 
+
+### [Scheveningen.public](/_public/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zuid-Holland\CityScheveningen.public.md) 
+
+### [Scheveningen.internal](/_internal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zuid-Holland\CityScheveningen.internal.md) 
+
+### [Scheveningen.protect](/_protect/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zuid-Holland\CityScheveningen.protect.md) 
+
+### [Scheveningen.private](/_private/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zuid-Holland\CityScheveningen.private.md) 
+
+### [Scheveningen.personal](/_personal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zuid-Holland\CityScheveningen.personal.md) 
+
+### [Scheveningen.secret](/_secret/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zuid-Holland\CityScheveningen.secret.md)
+

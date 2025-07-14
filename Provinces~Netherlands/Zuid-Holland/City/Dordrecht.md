@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Netherlands/City/Dordrecht|Dordrecht]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Netherlands/City/Dordrecht.public|Dordrecht.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Netherlands/City/Dordrecht.internal|Dordrecht.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Netherlands/City/Dordrecht.protect|Dordrecht.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Netherlands/City/Dordrecht.private|Dordrecht.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Netherlands/City/Dordrecht.personal|Dordrecht.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Netherlands/City/Dordrecht.secret|Dordrecht.secret]] 
+
+### [Dordrecht.public](/_public/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zuid-Holland\CityDordrecht.public.md) 
+
+### [Dordrecht.internal](/_internal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zuid-Holland\CityDordrecht.internal.md) 
+
+### [Dordrecht.protect](/_protect/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zuid-Holland\CityDordrecht.protect.md) 
+
+### [Dordrecht.private](/_private/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zuid-Holland\CityDordrecht.private.md) 
+
+### [Dordrecht.personal](/_personal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zuid-Holland\CityDordrecht.personal.md) 
+
+### [Dordrecht.secret](/_secret/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zuid-Holland\CityDordrecht.secret.md)
+

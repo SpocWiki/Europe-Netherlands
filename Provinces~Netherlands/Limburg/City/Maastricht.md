@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Netherlands/City/Maastricht|Maastricht]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Netherlands/City/Maastricht.public|Maastricht.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Netherlands/City/Maastricht.internal|Maastricht.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Netherlands/City/Maastricht.protect|Maastricht.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Netherlands/City/Maastricht.private|Maastricht.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Netherlands/City/Maastricht.personal|Maastricht.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Netherlands/City/Maastricht.secret|Maastricht.secret]] 
+
+### [Maastricht.public](/_public/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Limburg\CityMaastricht.public.md) 
+
+### [Maastricht.internal](/_internal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Limburg\CityMaastricht.internal.md) 
+
+### [Maastricht.protect](/_protect/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Limburg\CityMaastricht.protect.md) 
+
+### [Maastricht.private](/_private/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Limburg\CityMaastricht.private.md) 
+
+### [Maastricht.personal](/_personal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Limburg\CityMaastricht.personal.md) 
+
+### [Maastricht.secret](/_secret/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Limburg\CityMaastricht.secret.md)
+

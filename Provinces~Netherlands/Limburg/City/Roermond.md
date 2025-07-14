@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Netherlands/City/Roermond|Roermond]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Netherlands/City/Roermond.public|Roermond.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Netherlands/City/Roermond.internal|Roermond.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Netherlands/City/Roermond.protect|Roermond.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Netherlands/City/Roermond.private|Roermond.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Netherlands/City/Roermond.personal|Roermond.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Netherlands/City/Roermond.secret|Roermond.secret]] 
+
+### [Roermond.public](/_public/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Limburg\CityRoermond.public.md) 
+
+### [Roermond.internal](/_internal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Limburg\CityRoermond.internal.md) 
+
+### [Roermond.protect](/_protect/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Limburg\CityRoermond.protect.md) 
+
+### [Roermond.private](/_private/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Limburg\CityRoermond.private.md) 
+
+### [Roermond.personal](/_personal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Limburg\CityRoermond.personal.md) 
+
+### [Roermond.secret](/_secret/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Limburg\CityRoermond.secret.md)
+

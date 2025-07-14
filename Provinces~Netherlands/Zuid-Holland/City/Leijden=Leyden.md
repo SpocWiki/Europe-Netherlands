@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Netherlands/City/Leijden=Leyden|Leijden=Leyden]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Netherlands/City/Leijden=Leyden.public|Leijden=Leyden.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Netherlands/City/Leijden=Leyden.internal|Leijden=Leyden.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Netherlands/City/Leijden=Leyden.protect|Leijden=Leyden.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Netherlands/City/Leijden=Leyden.private|Leijden=Leyden.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Netherlands/City/Leijden=Leyden.personal|Leijden=Leyden.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Netherlands/City/Leijden=Leyden.secret|Leijden=Leyden.secret]] 
+
+### [Leijden=Leyden.public](/_public/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zuid-Holland\CityLeijden=Leyden.public.md) 
+
+### [Leijden=Leyden.internal](/_internal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zuid-Holland\CityLeijden=Leyden.internal.md) 
+
+### [Leijden=Leyden.protect](/_protect/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zuid-Holland\CityLeijden=Leyden.protect.md) 
+
+### [Leijden=Leyden.private](/_private/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zuid-Holland\CityLeijden=Leyden.private.md) 
+
+### [Leijden=Leyden.personal](/_personal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zuid-Holland\CityLeijden=Leyden.personal.md) 
+
+### [Leijden=Leyden.secret](/_secret/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zuid-Holland\CityLeijden=Leyden.secret.md)
+

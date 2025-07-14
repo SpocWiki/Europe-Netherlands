@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Netherlands/City/Tiel|Tiel]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Netherlands/City/Tiel.public|Tiel.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Netherlands/City/Tiel.internal|Tiel.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Netherlands/City/Tiel.protect|Tiel.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Netherlands/City/Tiel.private|Tiel.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Netherlands/City/Tiel.personal|Tiel.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Netherlands/City/Tiel.secret|Tiel.secret]] 
+
+### [Tiel.public](/_public/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Gelderland\CityTiel.public.md) 
+
+### [Tiel.internal](/_internal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Gelderland\CityTiel.internal.md) 
+
+### [Tiel.protect](/_protect/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Gelderland\CityTiel.protect.md) 
+
+### [Tiel.private](/_private/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Gelderland\CityTiel.private.md) 
+
+### [Tiel.personal](/_personal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Gelderland\CityTiel.personal.md) 
+
+### [Tiel.secret](/_secret/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Gelderland\CityTiel.secret.md)
+

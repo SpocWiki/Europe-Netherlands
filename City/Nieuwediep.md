@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Netherlands/City/Nieuwediep|Nieuwediep]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Netherlands/City/Nieuwediep.public|Nieuwediep.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Netherlands/City/Nieuwediep.internal|Nieuwediep.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Netherlands/City/Nieuwediep.protect|Nieuwediep.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Netherlands/City/Nieuwediep.private|Nieuwediep.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Netherlands/City/Nieuwediep.personal|Nieuwediep.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Netherlands/City/Nieuwediep.secret|Nieuwediep.secret]] 
+
+### [Nieuwediep.public](/_public/\Earth\Continent\Europe\Europe~West\Netherlands\CityNieuwediep.public.md) 
+
+### [Nieuwediep.internal](/_internal/\Earth\Continent\Europe\Europe~West\Netherlands\CityNieuwediep.internal.md) 
+
+### [Nieuwediep.protect](/_protect/\Earth\Continent\Europe\Europe~West\Netherlands\CityNieuwediep.protect.md) 
+
+### [Nieuwediep.private](/_private/\Earth\Continent\Europe\Europe~West\Netherlands\CityNieuwediep.private.md) 
+
+### [Nieuwediep.personal](/_personal/\Earth\Continent\Europe\Europe~West\Netherlands\CityNieuwediep.personal.md) 
+
+### [Nieuwediep.secret](/_secret/\Earth\Continent\Europe\Europe~West\Netherlands\CityNieuwediep.secret.md)
+

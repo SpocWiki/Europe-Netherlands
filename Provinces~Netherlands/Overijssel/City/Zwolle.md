@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Netherlands/City/Zwolle|Zwolle]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Netherlands/City/Zwolle.public|Zwolle.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Netherlands/City/Zwolle.internal|Zwolle.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Netherlands/City/Zwolle.protect|Zwolle.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Netherlands/City/Zwolle.private|Zwolle.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Netherlands/City/Zwolle.personal|Zwolle.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Netherlands/City/Zwolle.secret|Zwolle.secret]] 
+
+### [Zwolle.public](/_public/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Overijssel\CityZwolle.public.md) 
+
+### [Zwolle.internal](/_internal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Overijssel\CityZwolle.internal.md) 
+
+### [Zwolle.protect](/_protect/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Overijssel\CityZwolle.protect.md) 
+
+### [Zwolle.private](/_private/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Overijssel\CityZwolle.private.md) 
+
+### [Zwolle.personal](/_personal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Overijssel\CityZwolle.personal.md) 
+
+### [Zwolle.secret](/_secret/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Overijssel\CityZwolle.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Netherlands/City/Bussum|Bussum]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Netherlands/City/Bussum.public|Bussum.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Netherlands/City/Bussum.internal|Bussum.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Netherlands/City/Bussum.protect|Bussum.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Netherlands/City/Bussum.private|Bussum.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Netherlands/City/Bussum.personal|Bussum.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Netherlands/City/Bussum.secret|Bussum.secret]] 
+
+### [Bussum.public](/_public/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Holland\CityBussum.public.md) 
+
+### [Bussum.internal](/_internal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Holland\CityBussum.internal.md) 
+
+### [Bussum.protect](/_protect/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Holland\CityBussum.protect.md) 
+
+### [Bussum.private](/_private/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Holland\CityBussum.private.md) 
+
+### [Bussum.personal](/_personal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Holland\CityBussum.personal.md) 
+
+### [Bussum.secret](/_secret/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Holland\CityBussum.secret.md)
+

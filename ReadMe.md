@@ -135,12 +135,17 @@ Capital :: [[Amsterdam]]
 [has_place_latitude::51.9757] 
 
 
-
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/Europe/Europe~West/Netherlands|Netherlands]] 
-- [[../../../../../_public/geo/Continent/Europe/Europe~West/Netherlands.public|Netherlands.public]] 
-- [[../../../../../_internal/geo/Continent/Europe/Europe~West/Netherlands.internal|Netherlands.internal]] 
-- [[../../../../../_protect/geo/Continent/Europe/Europe~West/Netherlands.protect|Netherlands.protect]] 
-- [[../../../../../_private/geo/Continent/Europe/Europe~West/Netherlands.private|Netherlands.private]] 
-- [[../../../../../_personal/geo/Continent/Europe/Europe~West/Netherlands.personal|Netherlands.personal]] 
-- [[../../../../../_secret/geo/Continent/Europe/Europe~West/Netherlands.secret|Netherlands.secret]] 
+
+### [ReadMe.public](/_public/\Earth\Continent\Europe\Europe~West\NetherlandsReadMe.public.md) 
+
+### [ReadMe.internal](/_internal/\Earth\Continent\Europe\Europe~West\NetherlandsReadMe.internal.md) 
+
+### [ReadMe.protect](/_protect/\Earth\Continent\Europe\Europe~West\NetherlandsReadMe.protect.md) 
+
+### [ReadMe.private](/_private/\Earth\Continent\Europe\Europe~West\NetherlandsReadMe.private.md) 
+
+### [ReadMe.personal](/_personal/\Earth\Continent\Europe\Europe~West\NetherlandsReadMe.personal.md) 
+
+### [ReadMe.secret](/_secret/\Earth\Continent\Europe\Europe~West\NetherlandsReadMe.secret.md)
+

@@ -40,11 +40,16 @@ markerFolder: ./Gelderland/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Netherlands/Counties/Gelderland|Gelderland]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Netherlands/Counties/Gelderland.public|Gelderland.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Netherlands/Counties/Gelderland.internal|Gelderland.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Netherlands/Counties/Gelderland.protect|Gelderland.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Netherlands/Counties/Gelderland.private|Gelderland.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Netherlands/Counties/Gelderland.personal|Gelderland.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Netherlands/Counties/Gelderland.secret|Gelderland.secret]] 
+
+### [Gelderland.public](/_public/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~NetherlandsGelderland.public.md) 
+
+### [Gelderland.internal](/_internal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~NetherlandsGelderland.internal.md) 
+
+### [Gelderland.protect](/_protect/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~NetherlandsGelderland.protect.md) 
+
+### [Gelderland.private](/_private/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~NetherlandsGelderland.private.md) 
+
+### [Gelderland.personal](/_personal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~NetherlandsGelderland.personal.md) 
+
+### [Gelderland.secret](/_secret/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~NetherlandsGelderland.secret.md)
 

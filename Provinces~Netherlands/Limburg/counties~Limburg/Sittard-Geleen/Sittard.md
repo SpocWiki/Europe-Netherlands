@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51,5.9] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Netherlands/City/Sittard|Sittard]] 
-- [[../../../../../../_public/geo/Continent/Europe/Netherlands/City/Sittard.public|Sittard.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Sittard.internal|Sittard.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Sittard.protect|Sittard.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Netherlands/City/Sittard.private|Sittard.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Sittard.personal|Sittard.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Sittard.secret|Sittard.secret]] 
+
+### [Sittard.public](/_public/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Limburg\counties~Limburg\Sittard-GeleenSittard.public.md) 
+
+### [Sittard.internal](/_internal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Limburg\counties~Limburg\Sittard-GeleenSittard.internal.md) 
+
+### [Sittard.protect](/_protect/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Limburg\counties~Limburg\Sittard-GeleenSittard.protect.md) 
+
+### [Sittard.private](/_private/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Limburg\counties~Limburg\Sittard-GeleenSittard.private.md) 
+
+### [Sittard.personal](/_personal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Limburg\counties~Limburg\Sittard-GeleenSittard.personal.md) 
+
+### [Sittard.secret](/_secret/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Limburg\counties~Limburg\Sittard-GeleenSittard.secret.md)
+

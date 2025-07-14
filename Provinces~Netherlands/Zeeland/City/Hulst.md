@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Netherlands/City/Hulst|Hulst]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Netherlands/City/Hulst.public|Hulst.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Netherlands/City/Hulst.internal|Hulst.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Netherlands/City/Hulst.protect|Hulst.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Netherlands/City/Hulst.private|Hulst.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Netherlands/City/Hulst.personal|Hulst.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Netherlands/City/Hulst.secret|Hulst.secret]] 
+
+### [Hulst.public](/_public/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zeeland\CityHulst.public.md) 
+
+### [Hulst.internal](/_internal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zeeland\CityHulst.internal.md) 
+
+### [Hulst.protect](/_protect/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zeeland\CityHulst.protect.md) 
+
+### [Hulst.private](/_private/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zeeland\CityHulst.private.md) 
+
+### [Hulst.personal](/_personal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zeeland\CityHulst.personal.md) 
+
+### [Hulst.secret](/_secret/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zeeland\CityHulst.secret.md)
+

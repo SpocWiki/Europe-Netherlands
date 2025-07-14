@@ -40,21 +40,16 @@ markerFolder: ./Friesland/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Netherlands/Counties/Friesland|Friesland]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Netherlands/Counties/Friesland.public|Friesland.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Netherlands/Counties/Friesland.internal|Friesland.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Netherlands/Counties/Friesland.protect|Friesland.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Netherlands/Counties/Friesland.private|Friesland.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Netherlands/Counties/Friesland.personal|Friesland.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Netherlands/Counties/Friesland.secret|Friesland.secret]] 
 
+### [Friesland.public](/_public/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~NetherlandsFriesland.public.md) 
 
-```leaflet
-id: Netherlands
-zoomFeatures: true 
-minZoom: 2 
-maxZoom: 18
-geojsonFolder: ./Friesland/
-markerFolder: ./Friesland/
-```
+### [Friesland.internal](/_internal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~NetherlandsFriesland.internal.md) 
+
+### [Friesland.protect](/_protect/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~NetherlandsFriesland.protect.md) 
+
+### [Friesland.private](/_private/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~NetherlandsFriesland.private.md) 
+
+### [Friesland.personal](/_personal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~NetherlandsFriesland.personal.md) 
+
+### [Friesland.secret](/_secret/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~NetherlandsFriesland.secret.md)
 

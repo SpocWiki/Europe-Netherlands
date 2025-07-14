@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Netherlands/City/Kuilenburg|Kuilenburg]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Netherlands/City/Kuilenburg.public|Kuilenburg.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Netherlands/City/Kuilenburg.internal|Kuilenburg.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Netherlands/City/Kuilenburg.protect|Kuilenburg.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Netherlands/City/Kuilenburg.private|Kuilenburg.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Netherlands/City/Kuilenburg.personal|Kuilenburg.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Netherlands/City/Kuilenburg.secret|Kuilenburg.secret]] 
+
+### [Kuilenburg.public](/_public/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Gelderland\CityKuilenburg.public.md) 
+
+### [Kuilenburg.internal](/_internal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Gelderland\CityKuilenburg.internal.md) 
+
+### [Kuilenburg.protect](/_protect/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Gelderland\CityKuilenburg.protect.md) 
+
+### [Kuilenburg.private](/_private/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Gelderland\CityKuilenburg.private.md) 
+
+### [Kuilenburg.personal](/_personal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Gelderland\CityKuilenburg.personal.md) 
+
+### [Kuilenburg.secret](/_secret/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Gelderland\CityKuilenburg.secret.md)
+

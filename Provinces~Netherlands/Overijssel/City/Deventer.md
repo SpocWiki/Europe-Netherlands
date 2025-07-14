@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Netherlands/City/Deventer|Deventer]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Netherlands/City/Deventer.public|Deventer.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Netherlands/City/Deventer.internal|Deventer.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Netherlands/City/Deventer.protect|Deventer.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Netherlands/City/Deventer.private|Deventer.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Netherlands/City/Deventer.personal|Deventer.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Netherlands/City/Deventer.secret|Deventer.secret]] 
+
+### [Deventer.public](/_public/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Overijssel\CityDeventer.public.md) 
+
+### [Deventer.internal](/_internal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Overijssel\CityDeventer.internal.md) 
+
+### [Deventer.protect](/_protect/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Overijssel\CityDeventer.protect.md) 
+
+### [Deventer.private](/_private/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Overijssel\CityDeventer.private.md) 
+
+### [Deventer.personal](/_personal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Overijssel\CityDeventer.personal.md) 
+
+### [Deventer.secret](/_secret/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Overijssel\CityDeventer.secret.md)
+

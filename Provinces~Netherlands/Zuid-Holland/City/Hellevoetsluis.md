@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Netherlands/City/Hellevoetsluis|Hellevoetsluis]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Netherlands/City/Hellevoetsluis.public|Hellevoetsluis.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Netherlands/City/Hellevoetsluis.internal|Hellevoetsluis.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Netherlands/City/Hellevoetsluis.protect|Hellevoetsluis.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Netherlands/City/Hellevoetsluis.private|Hellevoetsluis.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Netherlands/City/Hellevoetsluis.personal|Hellevoetsluis.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Netherlands/City/Hellevoetsluis.secret|Hellevoetsluis.secret]] 
+
+### [Hellevoetsluis.public](/_public/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zuid-Holland\CityHellevoetsluis.public.md) 
+
+### [Hellevoetsluis.internal](/_internal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zuid-Holland\CityHellevoetsluis.internal.md) 
+
+### [Hellevoetsluis.protect](/_protect/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zuid-Holland\CityHellevoetsluis.protect.md) 
+
+### [Hellevoetsluis.private](/_private/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zuid-Holland\CityHellevoetsluis.private.md) 
+
+### [Hellevoetsluis.personal](/_personal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zuid-Holland\CityHellevoetsluis.personal.md) 
+
+### [Hellevoetsluis.secret](/_secret/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zuid-Holland\CityHellevoetsluis.secret.md)
+

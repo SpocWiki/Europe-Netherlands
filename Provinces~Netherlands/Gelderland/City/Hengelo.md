@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Netherlands/City/Hengelo|Hengelo]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Netherlands/City/Hengelo.public|Hengelo.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Netherlands/City/Hengelo.internal|Hengelo.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Netherlands/City/Hengelo.protect|Hengelo.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Netherlands/City/Hengelo.private|Hengelo.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Netherlands/City/Hengelo.personal|Hengelo.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Netherlands/City/Hengelo.secret|Hengelo.secret]] 
+
+### [Hengelo.public](/_public/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Gelderland\CityHengelo.public.md) 
+
+### [Hengelo.internal](/_internal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Gelderland\CityHengelo.internal.md) 
+
+### [Hengelo.protect](/_protect/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Gelderland\CityHengelo.protect.md) 
+
+### [Hengelo.private](/_private/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Gelderland\CityHengelo.private.md) 
+
+### [Hengelo.personal](/_personal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Gelderland\CityHengelo.personal.md) 
+
+### [Hengelo.secret](/_secret/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Gelderland\CityHengelo.secret.md)
+

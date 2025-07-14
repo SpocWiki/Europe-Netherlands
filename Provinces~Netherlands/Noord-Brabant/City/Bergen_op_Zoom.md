@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Netherlands/City/Bergen_op_Zoom|Bergen_op_Zoom]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Netherlands/City/Bergen_op_Zoom.public|Bergen_op_Zoom.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Netherlands/City/Bergen_op_Zoom.internal|Bergen_op_Zoom.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Netherlands/City/Bergen_op_Zoom.protect|Bergen_op_Zoom.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Netherlands/City/Bergen_op_Zoom.private|Bergen_op_Zoom.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Netherlands/City/Bergen_op_Zoom.personal|Bergen_op_Zoom.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Netherlands/City/Bergen_op_Zoom.secret|Bergen_op_Zoom.secret]] 
+
+### [Bergen_op_Zoom.public](/_public/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Brabant\CityBergen_op_Zoom.public.md) 
+
+### [Bergen_op_Zoom.internal](/_internal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Brabant\CityBergen_op_Zoom.internal.md) 
+
+### [Bergen_op_Zoom.protect](/_protect/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Brabant\CityBergen_op_Zoom.protect.md) 
+
+### [Bergen_op_Zoom.private](/_private/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Brabant\CityBergen_op_Zoom.private.md) 
+
+### [Bergen_op_Zoom.personal](/_personal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Brabant\CityBergen_op_Zoom.personal.md) 
+
+### [Bergen_op_Zoom.secret](/_secret/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Brabant\CityBergen_op_Zoom.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Netherlands/City/Middelburg|Middelburg]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Netherlands/City/Middelburg.public|Middelburg.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Netherlands/City/Middelburg.internal|Middelburg.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Netherlands/City/Middelburg.protect|Middelburg.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Netherlands/City/Middelburg.private|Middelburg.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Netherlands/City/Middelburg.personal|Middelburg.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Netherlands/City/Middelburg.secret|Middelburg.secret]] 
+
+### [Middelburg.public](/_public/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zeeland\CityMiddelburg.public.md) 
+
+### [Middelburg.internal](/_internal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zeeland\CityMiddelburg.internal.md) 
+
+### [Middelburg.protect](/_protect/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zeeland\CityMiddelburg.protect.md) 
+
+### [Middelburg.private](/_private/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zeeland\CityMiddelburg.private.md) 
+
+### [Middelburg.personal](/_personal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zeeland\CityMiddelburg.personal.md) 
+
+### [Middelburg.secret](/_secret/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zeeland\CityMiddelburg.secret.md)
+

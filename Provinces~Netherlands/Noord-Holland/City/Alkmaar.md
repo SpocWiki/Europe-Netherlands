@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Netherlands/City/Alkmaar|Alkmaar]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Netherlands/City/Alkmaar.public|Alkmaar.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Netherlands/City/Alkmaar.internal|Alkmaar.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Netherlands/City/Alkmaar.protect|Alkmaar.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Netherlands/City/Alkmaar.private|Alkmaar.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Netherlands/City/Alkmaar.personal|Alkmaar.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Netherlands/City/Alkmaar.secret|Alkmaar.secret]] 
+
+### [Alkmaar.public](/_public/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Holland\CityAlkmaar.public.md) 
+
+### [Alkmaar.internal](/_internal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Holland\CityAlkmaar.internal.md) 
+
+### [Alkmaar.protect](/_protect/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Holland\CityAlkmaar.protect.md) 
+
+### [Alkmaar.private](/_private/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Holland\CityAlkmaar.private.md) 
+
+### [Alkmaar.personal](/_personal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Holland\CityAlkmaar.personal.md) 
+
+### [Alkmaar.secret](/_secret/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Holland\CityAlkmaar.secret.md)
+

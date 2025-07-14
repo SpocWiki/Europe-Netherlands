@@ -40,21 +40,16 @@ markerFolder: ./Zuid-Holland/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Netherlands/Counties/Zuid-Holland|Zuid-Holland]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Netherlands/Counties/Zuid-Holland.public|Zuid-Holland.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Netherlands/Counties/Zuid-Holland.internal|Zuid-Holland.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Netherlands/Counties/Zuid-Holland.protect|Zuid-Holland.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Netherlands/Counties/Zuid-Holland.private|Zuid-Holland.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Netherlands/Counties/Zuid-Holland.personal|Zuid-Holland.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Netherlands/Counties/Zuid-Holland.secret|Zuid-Holland.secret]] 
 
+### [Zuid-Holland.public](/_public/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~NetherlandsZuid-Holland.public.md) 
 
-```leaflet
-id: Netherlands
-zoomFeatures: true 
-minZoom: 2 
-maxZoom: 18
-geojsonFolder: ./Zuid-Holland/
-markerFolder: ./Zuid-Holland//
-```
+### [Zuid-Holland.internal](/_internal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~NetherlandsZuid-Holland.internal.md) 
+
+### [Zuid-Holland.protect](/_protect/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~NetherlandsZuid-Holland.protect.md) 
+
+### [Zuid-Holland.private](/_private/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~NetherlandsZuid-Holland.private.md) 
+
+### [Zuid-Holland.personal](/_personal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~NetherlandsZuid-Holland.personal.md) 
+
+### [Zuid-Holland.secret](/_secret/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~NetherlandsZuid-Holland.secret.md)
 

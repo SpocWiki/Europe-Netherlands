@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Netherlands/City/Meppel|Meppel]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Netherlands/City/Meppel.public|Meppel.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Netherlands/City/Meppel.internal|Meppel.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Netherlands/City/Meppel.protect|Meppel.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Netherlands/City/Meppel.private|Meppel.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Netherlands/City/Meppel.personal|Meppel.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Netherlands/City/Meppel.secret|Meppel.secret]] 
+
+### [Meppel.public](/_public/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Drenthe\CityMeppel.public.md) 
+
+### [Meppel.internal](/_internal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Drenthe\CityMeppel.internal.md) 
+
+### [Meppel.protect](/_protect/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Drenthe\CityMeppel.protect.md) 
+
+### [Meppel.private](/_private/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Drenthe\CityMeppel.private.md) 
+
+### [Meppel.personal](/_personal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Drenthe\CityMeppel.personal.md) 
+
+### [Meppel.secret](/_secret/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Drenthe\CityMeppel.secret.md)
+

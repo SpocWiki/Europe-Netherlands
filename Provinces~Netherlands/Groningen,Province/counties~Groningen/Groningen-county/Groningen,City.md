@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Netherlands/City/Groningen|Groningen]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Netherlands/City/Groningen.public|Groningen.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Netherlands/City/Groningen.internal|Groningen.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Netherlands/City/Groningen.protect|Groningen.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Netherlands/City/Groningen.private|Groningen.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Netherlands/City/Groningen.personal|Groningen.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Netherlands/City/Groningen.secret|Groningen.secret]] 
+
+### [Groningen,City.public](/_public/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Groningen,Province\counties~Groningen\Groningen-countyGroningen,City.public.md) 
+
+### [Groningen,City.internal](/_internal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Groningen,Province\counties~Groningen\Groningen-countyGroningen,City.internal.md) 
+
+### [Groningen,City.protect](/_protect/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Groningen,Province\counties~Groningen\Groningen-countyGroningen,City.protect.md) 
+
+### [Groningen,City.private](/_private/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Groningen,Province\counties~Groningen\Groningen-countyGroningen,City.private.md) 
+
+### [Groningen,City.personal](/_personal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Groningen,Province\counties~Groningen\Groningen-countyGroningen,City.personal.md) 
+
+### [Groningen,City.secret](/_secret/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Groningen,Province\counties~Groningen\Groningen-countyGroningen,City.secret.md)
+

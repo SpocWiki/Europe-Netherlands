@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Netherlands/City/Zaandvoort|Zaandvoort]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Netherlands/City/Zaandvoort.public|Zaandvoort.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Netherlands/City/Zaandvoort.internal|Zaandvoort.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Netherlands/City/Zaandvoort.protect|Zaandvoort.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Netherlands/City/Zaandvoort.private|Zaandvoort.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Netherlands/City/Zaandvoort.personal|Zaandvoort.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Netherlands/City/Zaandvoort.secret|Zaandvoort.secret]] 
+
+### [Zaandvoort.public](/_public/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Holland\CityZaandvoort.public.md) 
+
+### [Zaandvoort.internal](/_internal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Holland\CityZaandvoort.internal.md) 
+
+### [Zaandvoort.protect](/_protect/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Holland\CityZaandvoort.protect.md) 
+
+### [Zaandvoort.private](/_private/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Holland\CityZaandvoort.private.md) 
+
+### [Zaandvoort.personal](/_personal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Holland\CityZaandvoort.personal.md) 
+
+### [Zaandvoort.secret](/_secret/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Holland\CityZaandvoort.secret.md)
+

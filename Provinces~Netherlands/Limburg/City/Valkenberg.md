@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Netherlands/City/Valkenberg|Valkenberg]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Netherlands/City/Valkenberg.public|Valkenberg.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Netherlands/City/Valkenberg.internal|Valkenberg.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Netherlands/City/Valkenberg.protect|Valkenberg.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Netherlands/City/Valkenberg.private|Valkenberg.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Netherlands/City/Valkenberg.personal|Valkenberg.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Netherlands/City/Valkenberg.secret|Valkenberg.secret]] 
+
+### [Valkenberg.public](/_public/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Limburg\CityValkenberg.public.md) 
+
+### [Valkenberg.internal](/_internal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Limburg\CityValkenberg.internal.md) 
+
+### [Valkenberg.protect](/_protect/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Limburg\CityValkenberg.protect.md) 
+
+### [Valkenberg.private](/_private/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Limburg\CityValkenberg.private.md) 
+
+### [Valkenberg.personal](/_personal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Limburg\CityValkenberg.personal.md) 
+
+### [Valkenberg.secret](/_secret/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Limburg\CityValkenberg.secret.md)
+

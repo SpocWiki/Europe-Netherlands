@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Netherlands/City/Rotterdam|Rotterdam]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Netherlands/City/Rotterdam.public|Rotterdam.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Netherlands/City/Rotterdam.internal|Rotterdam.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Netherlands/City/Rotterdam.protect|Rotterdam.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Netherlands/City/Rotterdam.private|Rotterdam.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Netherlands/City/Rotterdam.personal|Rotterdam.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Netherlands/City/Rotterdam.secret|Rotterdam.secret]] 
+
+### [Rotterdam.public](/_public/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zuid-Holland\CityRotterdam.public.md) 
+
+### [Rotterdam.internal](/_internal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zuid-Holland\CityRotterdam.internal.md) 
+
+### [Rotterdam.protect](/_protect/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zuid-Holland\CityRotterdam.protect.md) 
+
+### [Rotterdam.private](/_private/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zuid-Holland\CityRotterdam.private.md) 
+
+### [Rotterdam.personal](/_personal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zuid-Holland\CityRotterdam.personal.md) 
+
+### [Rotterdam.secret](/_secret/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zuid-Holland\CityRotterdam.secret.md)
+

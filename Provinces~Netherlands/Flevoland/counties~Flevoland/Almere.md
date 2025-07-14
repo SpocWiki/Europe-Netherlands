@@ -24,3 +24,20 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Almere)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Almere.public](/_public/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Flevoland\counties~FlevolandAlmere.public.md) 
+
+### [Almere.internal](/_internal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Flevoland\counties~FlevolandAlmere.internal.md) 
+
+### [Almere.protect](/_protect/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Flevoland\counties~FlevolandAlmere.protect.md) 
+
+### [Almere.private](/_private/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Flevoland\counties~FlevolandAlmere.private.md) 
+
+### [Almere.personal](/_personal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Flevoland\counties~FlevolandAlmere.personal.md) 
+
+### [Almere.secret](/_secret/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Flevoland\counties~FlevolandAlmere.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Netherlands/City/Leeuwarden|Leeuwarden]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Netherlands/City/Leeuwarden.public|Leeuwarden.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Netherlands/City/Leeuwarden.internal|Leeuwarden.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Netherlands/City/Leeuwarden.protect|Leeuwarden.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Netherlands/City/Leeuwarden.private|Leeuwarden.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Netherlands/City/Leeuwarden.personal|Leeuwarden.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Netherlands/City/Leeuwarden.secret|Leeuwarden.secret]] 
+
+### [Leeuwarden.public](/_public/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Friesland\CityLeeuwarden.public.md) 
+
+### [Leeuwarden.internal](/_internal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Friesland\CityLeeuwarden.internal.md) 
+
+### [Leeuwarden.protect](/_protect/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Friesland\CityLeeuwarden.protect.md) 
+
+### [Leeuwarden.private](/_private/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Friesland\CityLeeuwarden.private.md) 
+
+### [Leeuwarden.personal](/_personal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Friesland\CityLeeuwarden.personal.md) 
+
+### [Leeuwarden.secret](/_secret/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Friesland\CityLeeuwarden.secret.md)
+

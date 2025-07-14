@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Netherlands/City/Amersfoort|Amersfoort]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Netherlands/City/Amersfoort.public|Amersfoort.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Netherlands/City/Amersfoort.internal|Amersfoort.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Netherlands/City/Amersfoort.protect|Amersfoort.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Netherlands/City/Amersfoort.private|Amersfoort.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Netherlands/City/Amersfoort.personal|Amersfoort.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Netherlands/City/Amersfoort.secret|Amersfoort.secret]] 
+
+### [Amersfoort.public](/_public/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Utrecht,Province\counties~Utrecht\AmersfoortAmersfoort.public.md) 
+
+### [Amersfoort.internal](/_internal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Utrecht,Province\counties~Utrecht\AmersfoortAmersfoort.internal.md) 
+
+### [Amersfoort.protect](/_protect/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Utrecht,Province\counties~Utrecht\AmersfoortAmersfoort.protect.md) 
+
+### [Amersfoort.private](/_private/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Utrecht,Province\counties~Utrecht\AmersfoortAmersfoort.private.md) 
+
+### [Amersfoort.personal](/_personal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Utrecht,Province\counties~Utrecht\AmersfoortAmersfoort.personal.md) 
+
+### [Amersfoort.secret](/_secret/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Utrecht,Province\counties~Utrecht\AmersfoortAmersfoort.secret.md)
+

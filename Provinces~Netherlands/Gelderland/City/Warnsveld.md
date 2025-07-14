@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Netherlands/City/Warnsveld|Warnsveld]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Netherlands/City/Warnsveld.public|Warnsveld.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Netherlands/City/Warnsveld.internal|Warnsveld.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Netherlands/City/Warnsveld.protect|Warnsveld.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Netherlands/City/Warnsveld.private|Warnsveld.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Netherlands/City/Warnsveld.personal|Warnsveld.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Netherlands/City/Warnsveld.secret|Warnsveld.secret]] 
+
+### [Warnsveld.public](/_public/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Gelderland\CityWarnsveld.public.md) 
+
+### [Warnsveld.internal](/_internal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Gelderland\CityWarnsveld.internal.md) 
+
+### [Warnsveld.protect](/_protect/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Gelderland\CityWarnsveld.protect.md) 
+
+### [Warnsveld.private](/_private/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Gelderland\CityWarnsveld.private.md) 
+
+### [Warnsveld.personal](/_personal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Gelderland\CityWarnsveld.personal.md) 
+
+### [Warnsveld.secret](/_secret/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Gelderland\CityWarnsveld.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Netherlands/City/Soestdijk|Soestdijk]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Netherlands/City/Soestdijk.public|Soestdijk.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Netherlands/City/Soestdijk.internal|Soestdijk.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Netherlands/City/Soestdijk.protect|Soestdijk.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Netherlands/City/Soestdijk.private|Soestdijk.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Netherlands/City/Soestdijk.personal|Soestdijk.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Netherlands/City/Soestdijk.secret|Soestdijk.secret]] 
+
+### [Soestdijk.public](/_public/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Utrecht,Province\counties~Utrecht\SoestSoestdijk.public.md) 
+
+### [Soestdijk.internal](/_internal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Utrecht,Province\counties~Utrecht\SoestSoestdijk.internal.md) 
+
+### [Soestdijk.protect](/_protect/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Utrecht,Province\counties~Utrecht\SoestSoestdijk.protect.md) 
+
+### [Soestdijk.private](/_private/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Utrecht,Province\counties~Utrecht\SoestSoestdijk.private.md) 
+
+### [Soestdijk.personal](/_personal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Utrecht,Province\counties~Utrecht\SoestSoestdijk.personal.md) 
+
+### [Soestdijk.secret](/_secret/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Utrecht,Province\counties~Utrecht\SoestSoestdijk.secret.md)
+

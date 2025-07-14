@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Netherlands/City/De_Bilt|De_Bilt]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Netherlands/City/De_Bilt.public|De_Bilt.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Netherlands/City/De_Bilt.internal|De_Bilt.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Netherlands/City/De_Bilt.protect|De_Bilt.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Netherlands/City/De_Bilt.private|De_Bilt.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Netherlands/City/De_Bilt.personal|De_Bilt.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Netherlands/City/De_Bilt.secret|De_Bilt.secret]] 
+
+### [De_Bilt.public](/_public/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Utrecht,Province\counties~Utrecht\De_BiltDe_Bilt.public.md) 
+
+### [De_Bilt.internal](/_internal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Utrecht,Province\counties~Utrecht\De_BiltDe_Bilt.internal.md) 
+
+### [De_Bilt.protect](/_protect/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Utrecht,Province\counties~Utrecht\De_BiltDe_Bilt.protect.md) 
+
+### [De_Bilt.private](/_private/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Utrecht,Province\counties~Utrecht\De_BiltDe_Bilt.private.md) 
+
+### [De_Bilt.personal](/_personal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Utrecht,Province\counties~Utrecht\De_BiltDe_Bilt.personal.md) 
+
+### [De_Bilt.secret](/_secret/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Utrecht,Province\counties~Utrecht\De_BiltDe_Bilt.secret.md)
+

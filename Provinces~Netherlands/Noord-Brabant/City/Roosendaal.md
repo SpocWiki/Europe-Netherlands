@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Netherlands/City/Roosendaal|Roosendaal]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Netherlands/City/Roosendaal.public|Roosendaal.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Netherlands/City/Roosendaal.internal|Roosendaal.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Netherlands/City/Roosendaal.protect|Roosendaal.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Netherlands/City/Roosendaal.private|Roosendaal.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Netherlands/City/Roosendaal.personal|Roosendaal.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Netherlands/City/Roosendaal.secret|Roosendaal.secret]] 
+
+### [Roosendaal.public](/_public/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Brabant\CityRoosendaal.public.md) 
+
+### [Roosendaal.internal](/_internal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Brabant\CityRoosendaal.internal.md) 
+
+### [Roosendaal.protect](/_protect/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Brabant\CityRoosendaal.protect.md) 
+
+### [Roosendaal.private](/_private/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Brabant\CityRoosendaal.private.md) 
+
+### [Roosendaal.personal](/_personal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Brabant\CityRoosendaal.personal.md) 
+
+### [Roosendaal.secret](/_secret/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Brabant\CityRoosendaal.secret.md)
+

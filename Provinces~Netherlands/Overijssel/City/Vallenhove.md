@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Netherlands/City/Vallenhove|Vallenhove]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Netherlands/City/Vallenhove.public|Vallenhove.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Netherlands/City/Vallenhove.internal|Vallenhove.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Netherlands/City/Vallenhove.protect|Vallenhove.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Netherlands/City/Vallenhove.private|Vallenhove.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Netherlands/City/Vallenhove.personal|Vallenhove.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Netherlands/City/Vallenhove.secret|Vallenhove.secret]] 
+
+### [Vallenhove.public](/_public/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Overijssel\CityVallenhove.public.md) 
+
+### [Vallenhove.internal](/_internal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Overijssel\CityVallenhove.internal.md) 
+
+### [Vallenhove.protect](/_protect/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Overijssel\CityVallenhove.protect.md) 
+
+### [Vallenhove.private](/_private/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Overijssel\CityVallenhove.private.md) 
+
+### [Vallenhove.personal](/_personal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Overijssel\CityVallenhove.personal.md) 
+
+### [Vallenhove.secret](/_secret/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Overijssel\CityVallenhove.secret.md)
+
