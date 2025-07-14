@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Breda.public](/_public/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Brabant\CityBreda.public.md) 
+### [Breda](/_Standards/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Noord-Brabant/City/Breda.md) 
 
-### [Breda.internal](/_internal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Brabant\CityBreda.internal.md) 
+### [Breda.public](/_public/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Noord-Brabant/City/Breda.public.md) 
 
-### [Breda.protect](/_protect/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Brabant\CityBreda.protect.md) 
+### [Breda.internal](/_internal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Noord-Brabant/City/Breda.internal.md) 
 
-### [Breda.private](/_private/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Brabant\CityBreda.private.md) 
+### [Breda.protect](/_protect/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Noord-Brabant/City/Breda.protect.md) 
 
-### [Breda.personal](/_personal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Brabant\CityBreda.personal.md) 
+### [Breda.private](/_private/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Noord-Brabant/City/Breda.private.md) 
 
-### [Breda.secret](/_secret/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Brabant\CityBreda.secret.md)
+### [Breda.personal](/_personal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Noord-Brabant/City/Breda.personal.md) 
+
+### [Breda.secret](/_secret/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Noord-Brabant/City/Breda.secret.md)
 

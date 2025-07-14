@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Delft.public](/_public/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zuid-Holland\CityDelft.public.md) 
+### [Delft](/_Standards/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Zuid-Holland/City/Delft.md) 
 
-### [Delft.internal](/_internal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zuid-Holland\CityDelft.internal.md) 
+### [Delft.public](/_public/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Zuid-Holland/City/Delft.public.md) 
 
-### [Delft.protect](/_protect/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zuid-Holland\CityDelft.protect.md) 
+### [Delft.internal](/_internal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Zuid-Holland/City/Delft.internal.md) 
 
-### [Delft.private](/_private/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zuid-Holland\CityDelft.private.md) 
+### [Delft.protect](/_protect/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Zuid-Holland/City/Delft.protect.md) 
 
-### [Delft.personal](/_personal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zuid-Holland\CityDelft.personal.md) 
+### [Delft.private](/_private/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Zuid-Holland/City/Delft.private.md) 
 
-### [Delft.secret](/_secret/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zuid-Holland\CityDelft.secret.md)
+### [Delft.personal](/_personal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Zuid-Holland/City/Delft.personal.md) 
+
+### [Delft.secret](/_secret/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Zuid-Holland/City/Delft.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Edam.public](/_public/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Flevoland\CityEdam.public.md) 
+### [Edam](/_Standards/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Flevoland/City/Edam.md) 
 
-### [Edam.internal](/_internal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Flevoland\CityEdam.internal.md) 
+### [Edam.public](/_public/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Flevoland/City/Edam.public.md) 
 
-### [Edam.protect](/_protect/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Flevoland\CityEdam.protect.md) 
+### [Edam.internal](/_internal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Flevoland/City/Edam.internal.md) 
 
-### [Edam.private](/_private/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Flevoland\CityEdam.private.md) 
+### [Edam.protect](/_protect/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Flevoland/City/Edam.protect.md) 
 
-### [Edam.personal](/_personal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Flevoland\CityEdam.personal.md) 
+### [Edam.private](/_private/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Flevoland/City/Edam.private.md) 
 
-### [Edam.secret](/_secret/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Flevoland\CityEdam.secret.md)
+### [Edam.personal](/_personal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Flevoland/City/Edam.personal.md) 
+
+### [Edam.secret](/_secret/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Flevoland/City/Edam.secret.md)
 

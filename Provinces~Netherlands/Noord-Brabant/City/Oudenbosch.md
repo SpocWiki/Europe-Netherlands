@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Oudenbosch.public](/_public/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Brabant\CityOudenbosch.public.md) 
+### [Oudenbosch](/_Standards/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Noord-Brabant/City/Oudenbosch.md) 
 
-### [Oudenbosch.internal](/_internal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Brabant\CityOudenbosch.internal.md) 
+### [Oudenbosch.public](/_public/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Noord-Brabant/City/Oudenbosch.public.md) 
 
-### [Oudenbosch.protect](/_protect/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Brabant\CityOudenbosch.protect.md) 
+### [Oudenbosch.internal](/_internal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Noord-Brabant/City/Oudenbosch.internal.md) 
 
-### [Oudenbosch.private](/_private/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Brabant\CityOudenbosch.private.md) 
+### [Oudenbosch.protect](/_protect/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Noord-Brabant/City/Oudenbosch.protect.md) 
 
-### [Oudenbosch.personal](/_personal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Brabant\CityOudenbosch.personal.md) 
+### [Oudenbosch.private](/_private/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Noord-Brabant/City/Oudenbosch.private.md) 
 
-### [Oudenbosch.secret](/_secret/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Brabant\CityOudenbosch.secret.md)
+### [Oudenbosch.personal](/_personal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Noord-Brabant/City/Oudenbosch.personal.md) 
+
+### [Oudenbosch.secret](/_secret/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Noord-Brabant/City/Oudenbosch.secret.md)
 

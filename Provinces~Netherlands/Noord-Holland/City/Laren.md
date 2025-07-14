@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Laren.public](/_public/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Holland\CityLaren.public.md) 
+### [Laren](/_Standards/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Noord-Holland/City/Laren.md) 
 
-### [Laren.internal](/_internal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Holland\CityLaren.internal.md) 
+### [Laren.public](/_public/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Noord-Holland/City/Laren.public.md) 
 
-### [Laren.protect](/_protect/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Holland\CityLaren.protect.md) 
+### [Laren.internal](/_internal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Noord-Holland/City/Laren.internal.md) 
 
-### [Laren.private](/_private/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Holland\CityLaren.private.md) 
+### [Laren.protect](/_protect/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Noord-Holland/City/Laren.protect.md) 
 
-### [Laren.personal](/_personal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Holland\CityLaren.personal.md) 
+### [Laren.private](/_private/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Noord-Holland/City/Laren.private.md) 
 
-### [Laren.secret](/_secret/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Holland\CityLaren.secret.md)
+### [Laren.personal](/_personal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Noord-Holland/City/Laren.personal.md) 
+
+### [Laren.secret](/_secret/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Noord-Holland/City/Laren.secret.md)
 

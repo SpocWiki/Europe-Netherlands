@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Harderwijk.public](/_public/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Gelderland\CityHarderwijk.public.md) 
+### [Harderwijk](/_Standards/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Gelderland/City/Harderwijk.md) 
 
-### [Harderwijk.internal](/_internal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Gelderland\CityHarderwijk.internal.md) 
+### [Harderwijk.public](/_public/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Gelderland/City/Harderwijk.public.md) 
 
-### [Harderwijk.protect](/_protect/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Gelderland\CityHarderwijk.protect.md) 
+### [Harderwijk.internal](/_internal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Gelderland/City/Harderwijk.internal.md) 
 
-### [Harderwijk.private](/_private/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Gelderland\CityHarderwijk.private.md) 
+### [Harderwijk.protect](/_protect/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Gelderland/City/Harderwijk.protect.md) 
 
-### [Harderwijk.personal](/_personal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Gelderland\CityHarderwijk.personal.md) 
+### [Harderwijk.private](/_private/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Gelderland/City/Harderwijk.private.md) 
 
-### [Harderwijk.secret](/_secret/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Gelderland\CityHarderwijk.secret.md)
+### [Harderwijk.personal](/_personal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Gelderland/City/Harderwijk.personal.md) 
+
+### [Harderwijk.secret](/_secret/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Gelderland/City/Harderwijk.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Goedereede.public](/_public/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zuid-Holland\CityGoedereede.public.md) 
+### [Goedereede](/_Standards/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Zuid-Holland/City/Goedereede.md) 
 
-### [Goedereede.internal](/_internal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zuid-Holland\CityGoedereede.internal.md) 
+### [Goedereede.public](/_public/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Zuid-Holland/City/Goedereede.public.md) 
 
-### [Goedereede.protect](/_protect/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zuid-Holland\CityGoedereede.protect.md) 
+### [Goedereede.internal](/_internal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Zuid-Holland/City/Goedereede.internal.md) 
 
-### [Goedereede.private](/_private/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zuid-Holland\CityGoedereede.private.md) 
+### [Goedereede.protect](/_protect/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Zuid-Holland/City/Goedereede.protect.md) 
 
-### [Goedereede.personal](/_personal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zuid-Holland\CityGoedereede.personal.md) 
+### [Goedereede.private](/_private/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Zuid-Holland/City/Goedereede.private.md) 
 
-### [Goedereede.secret](/_secret/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zuid-Holland\CityGoedereede.secret.md)
+### [Goedereede.personal](/_personal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Zuid-Holland/City/Goedereede.personal.md) 
+
+### [Goedereede.secret](/_secret/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Zuid-Holland/City/Goedereede.secret.md)
 

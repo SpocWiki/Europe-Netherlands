@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hoorn.public](/_public/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Holland\CityHoorn.public.md) 
+### [Hoorn](/_Standards/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Noord-Holland/City/Hoorn.md) 
 
-### [Hoorn.internal](/_internal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Holland\CityHoorn.internal.md) 
+### [Hoorn.public](/_public/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Noord-Holland/City/Hoorn.public.md) 
 
-### [Hoorn.protect](/_protect/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Holland\CityHoorn.protect.md) 
+### [Hoorn.internal](/_internal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Noord-Holland/City/Hoorn.internal.md) 
 
-### [Hoorn.private](/_private/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Holland\CityHoorn.private.md) 
+### [Hoorn.protect](/_protect/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Noord-Holland/City/Hoorn.protect.md) 
 
-### [Hoorn.personal](/_personal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Holland\CityHoorn.personal.md) 
+### [Hoorn.private](/_private/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Noord-Holland/City/Hoorn.private.md) 
 
-### [Hoorn.secret](/_secret/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Holland\CityHoorn.secret.md)
+### [Hoorn.personal](/_personal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Noord-Holland/City/Hoorn.personal.md) 
+
+### [Hoorn.secret](/_secret/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Noord-Holland/City/Hoorn.secret.md)
 

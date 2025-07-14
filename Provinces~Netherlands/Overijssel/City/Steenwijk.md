@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Steenwijk.public](/_public/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Overijssel\CitySteenwijk.public.md) 
+### [Steenwijk](/_Standards/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Overijssel/City/Steenwijk.md) 
 
-### [Steenwijk.internal](/_internal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Overijssel\CitySteenwijk.internal.md) 
+### [Steenwijk.public](/_public/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Overijssel/City/Steenwijk.public.md) 
 
-### [Steenwijk.protect](/_protect/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Overijssel\CitySteenwijk.protect.md) 
+### [Steenwijk.internal](/_internal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Overijssel/City/Steenwijk.internal.md) 
 
-### [Steenwijk.private](/_private/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Overijssel\CitySteenwijk.private.md) 
+### [Steenwijk.protect](/_protect/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Overijssel/City/Steenwijk.protect.md) 
 
-### [Steenwijk.personal](/_personal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Overijssel\CitySteenwijk.personal.md) 
+### [Steenwijk.private](/_private/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Overijssel/City/Steenwijk.private.md) 
 
-### [Steenwijk.secret](/_secret/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Overijssel\CitySteenwijk.secret.md)
+### [Steenwijk.personal](/_personal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Overijssel/City/Steenwijk.personal.md) 
+
+### [Steenwijk.secret](/_secret/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Overijssel/City/Steenwijk.secret.md)
 

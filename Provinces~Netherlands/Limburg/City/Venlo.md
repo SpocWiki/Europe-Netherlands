@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Venlo.public](/_public/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Limburg\CityVenlo.public.md) 
+### [Venlo](/_Standards/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Limburg/City/Venlo.md) 
 
-### [Venlo.internal](/_internal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Limburg\CityVenlo.internal.md) 
+### [Venlo.public](/_public/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Limburg/City/Venlo.public.md) 
 
-### [Venlo.protect](/_protect/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Limburg\CityVenlo.protect.md) 
+### [Venlo.internal](/_internal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Limburg/City/Venlo.internal.md) 
 
-### [Venlo.private](/_private/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Limburg\CityVenlo.private.md) 
+### [Venlo.protect](/_protect/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Limburg/City/Venlo.protect.md) 
 
-### [Venlo.personal](/_personal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Limburg\CityVenlo.personal.md) 
+### [Venlo.private](/_private/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Limburg/City/Venlo.private.md) 
 
-### [Venlo.secret](/_secret/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Limburg\CityVenlo.secret.md)
+### [Venlo.personal](/_personal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Limburg/City/Venlo.personal.md) 
+
+### [Venlo.secret](/_secret/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Limburg/City/Venlo.secret.md)
 

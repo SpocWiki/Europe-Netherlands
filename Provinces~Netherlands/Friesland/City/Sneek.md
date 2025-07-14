@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sneek.public](/_public/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Friesland\CitySneek.public.md) 
+### [Sneek](/_Standards/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Friesland/City/Sneek.md) 
 
-### [Sneek.internal](/_internal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Friesland\CitySneek.internal.md) 
+### [Sneek.public](/_public/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Friesland/City/Sneek.public.md) 
 
-### [Sneek.protect](/_protect/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Friesland\CitySneek.protect.md) 
+### [Sneek.internal](/_internal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Friesland/City/Sneek.internal.md) 
 
-### [Sneek.private](/_private/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Friesland\CitySneek.private.md) 
+### [Sneek.protect](/_protect/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Friesland/City/Sneek.protect.md) 
 
-### [Sneek.personal](/_personal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Friesland\CitySneek.personal.md) 
+### [Sneek.private](/_private/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Friesland/City/Sneek.private.md) 
 
-### [Sneek.secret](/_secret/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Friesland\CitySneek.secret.md)
+### [Sneek.personal](/_personal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Friesland/City/Sneek.personal.md) 
+
+### [Sneek.secret](/_secret/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Friesland/City/Sneek.secret.md)
 

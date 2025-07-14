@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Soestdijk.public](/_public/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Utrecht,Province\counties~Utrecht\SoestSoestdijk.public.md) 
+### [Soestdijk](/_Standards/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Utrecht,Province/counties~Utrecht/Soest/Soestdijk.md) 
 
-### [Soestdijk.internal](/_internal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Utrecht,Province\counties~Utrecht\SoestSoestdijk.internal.md) 
+### [Soestdijk.public](/_public/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Utrecht,Province/counties~Utrecht/Soest/Soestdijk.public.md) 
 
-### [Soestdijk.protect](/_protect/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Utrecht,Province\counties~Utrecht\SoestSoestdijk.protect.md) 
+### [Soestdijk.internal](/_internal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Utrecht,Province/counties~Utrecht/Soest/Soestdijk.internal.md) 
 
-### [Soestdijk.private](/_private/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Utrecht,Province\counties~Utrecht\SoestSoestdijk.private.md) 
+### [Soestdijk.protect](/_protect/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Utrecht,Province/counties~Utrecht/Soest/Soestdijk.protect.md) 
 
-### [Soestdijk.personal](/_personal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Utrecht,Province\counties~Utrecht\SoestSoestdijk.personal.md) 
+### [Soestdijk.private](/_private/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Utrecht,Province/counties~Utrecht/Soest/Soestdijk.private.md) 
 
-### [Soestdijk.secret](/_secret/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Utrecht,Province\counties~Utrecht\SoestSoestdijk.secret.md)
+### [Soestdijk.personal](/_personal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Utrecht,Province/counties~Utrecht/Soest/Soestdijk.personal.md) 
+
+### [Soestdijk.secret](/_secret/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Utrecht,Province/counties~Utrecht/Soest/Soestdijk.secret.md)
 

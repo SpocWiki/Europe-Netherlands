@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Winterswijk.public](/_public/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Gelderland\CityWinterswijk.public.md) 
+### [Winterswijk](/_Standards/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Gelderland/City/Winterswijk.md) 
 
-### [Winterswijk.internal](/_internal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Gelderland\CityWinterswijk.internal.md) 
+### [Winterswijk.public](/_public/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Gelderland/City/Winterswijk.public.md) 
 
-### [Winterswijk.protect](/_protect/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Gelderland\CityWinterswijk.protect.md) 
+### [Winterswijk.internal](/_internal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Gelderland/City/Winterswijk.internal.md) 
 
-### [Winterswijk.private](/_private/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Gelderland\CityWinterswijk.private.md) 
+### [Winterswijk.protect](/_protect/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Gelderland/City/Winterswijk.protect.md) 
 
-### [Winterswijk.personal](/_personal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Gelderland\CityWinterswijk.personal.md) 
+### [Winterswijk.private](/_private/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Gelderland/City/Winterswijk.private.md) 
 
-### [Winterswijk.secret](/_secret/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Gelderland\CityWinterswijk.secret.md)
+### [Winterswijk.personal](/_personal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Gelderland/City/Winterswijk.personal.md) 
+
+### [Winterswijk.secret](/_secret/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Gelderland/City/Winterswijk.secret.md)
 

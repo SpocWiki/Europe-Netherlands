@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Apeldoorn.public](/_public/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Gelderland\CityApeldoorn.public.md) 
+### [Apeldoorn](/_Standards/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Gelderland/City/Apeldoorn.md) 
 
-### [Apeldoorn.internal](/_internal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Gelderland\CityApeldoorn.internal.md) 
+### [Apeldoorn.public](/_public/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Gelderland/City/Apeldoorn.public.md) 
 
-### [Apeldoorn.protect](/_protect/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Gelderland\CityApeldoorn.protect.md) 
+### [Apeldoorn.internal](/_internal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Gelderland/City/Apeldoorn.internal.md) 
 
-### [Apeldoorn.private](/_private/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Gelderland\CityApeldoorn.private.md) 
+### [Apeldoorn.protect](/_protect/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Gelderland/City/Apeldoorn.protect.md) 
 
-### [Apeldoorn.personal](/_personal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Gelderland\CityApeldoorn.personal.md) 
+### [Apeldoorn.private](/_private/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Gelderland/City/Apeldoorn.private.md) 
 
-### [Apeldoorn.secret](/_secret/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Gelderland\CityApeldoorn.secret.md)
+### [Apeldoorn.personal](/_personal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Gelderland/City/Apeldoorn.personal.md) 
+
+### [Apeldoorn.secret](/_secret/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Gelderland/City/Apeldoorn.secret.md)
 

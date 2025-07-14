@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kuilenburg.public](/_public/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Gelderland\CityKuilenburg.public.md) 
+### [Kuilenburg](/_Standards/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Gelderland/City/Kuilenburg.md) 
 
-### [Kuilenburg.internal](/_internal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Gelderland\CityKuilenburg.internal.md) 
+### [Kuilenburg.public](/_public/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Gelderland/City/Kuilenburg.public.md) 
 
-### [Kuilenburg.protect](/_protect/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Gelderland\CityKuilenburg.protect.md) 
+### [Kuilenburg.internal](/_internal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Gelderland/City/Kuilenburg.internal.md) 
 
-### [Kuilenburg.private](/_private/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Gelderland\CityKuilenburg.private.md) 
+### [Kuilenburg.protect](/_protect/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Gelderland/City/Kuilenburg.protect.md) 
 
-### [Kuilenburg.personal](/_personal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Gelderland\CityKuilenburg.personal.md) 
+### [Kuilenburg.private](/_private/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Gelderland/City/Kuilenburg.private.md) 
 
-### [Kuilenburg.secret](/_secret/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Gelderland\CityKuilenburg.secret.md)
+### [Kuilenburg.personal](/_personal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Gelderland/City/Kuilenburg.personal.md) 
+
+### [Kuilenburg.secret](/_secret/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Gelderland/City/Kuilenburg.secret.md)
 

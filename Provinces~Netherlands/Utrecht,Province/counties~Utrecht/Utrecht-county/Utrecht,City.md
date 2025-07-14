@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Utrecht,City.public](/_public/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Utrecht,Province\counties~Utrecht\Utrecht-countyUtrecht,City.public.md) 
+### [Utrecht,City](/_Standards/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Utrecht,Province/counties~Utrecht/Utrecht-county/Utrecht,City.md) 
 
-### [Utrecht,City.internal](/_internal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Utrecht,Province\counties~Utrecht\Utrecht-countyUtrecht,City.internal.md) 
+### [Utrecht,City.public](/_public/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Utrecht,Province/counties~Utrecht/Utrecht-county/Utrecht,City.public.md) 
 
-### [Utrecht,City.protect](/_protect/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Utrecht,Province\counties~Utrecht\Utrecht-countyUtrecht,City.protect.md) 
+### [Utrecht,City.internal](/_internal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Utrecht,Province/counties~Utrecht/Utrecht-county/Utrecht,City.internal.md) 
 
-### [Utrecht,City.private](/_private/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Utrecht,Province\counties~Utrecht\Utrecht-countyUtrecht,City.private.md) 
+### [Utrecht,City.protect](/_protect/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Utrecht,Province/counties~Utrecht/Utrecht-county/Utrecht,City.protect.md) 
 
-### [Utrecht,City.personal](/_personal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Utrecht,Province\counties~Utrecht\Utrecht-countyUtrecht,City.personal.md) 
+### [Utrecht,City.private](/_private/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Utrecht,Province/counties~Utrecht/Utrecht-county/Utrecht,City.private.md) 
 
-### [Utrecht,City.secret](/_secret/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Utrecht,Province\counties~Utrecht\Utrecht-countyUtrecht,City.secret.md)
+### [Utrecht,City.personal](/_personal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Utrecht,Province/counties~Utrecht/Utrecht-county/Utrecht,City.personal.md) 
+
+### [Utrecht,City.secret](/_secret/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Utrecht,Province/counties~Utrecht/Utrecht-county/Utrecht,City.secret.md)
 

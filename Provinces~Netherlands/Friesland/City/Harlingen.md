@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Harlingen.public](/_public/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Friesland\CityHarlingen.public.md) 
+### [Harlingen](/_Standards/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Friesland/City/Harlingen.md) 
 
-### [Harlingen.internal](/_internal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Friesland\CityHarlingen.internal.md) 
+### [Harlingen.public](/_public/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Friesland/City/Harlingen.public.md) 
 
-### [Harlingen.protect](/_protect/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Friesland\CityHarlingen.protect.md) 
+### [Harlingen.internal](/_internal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Friesland/City/Harlingen.internal.md) 
 
-### [Harlingen.private](/_private/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Friesland\CityHarlingen.private.md) 
+### [Harlingen.protect](/_protect/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Friesland/City/Harlingen.protect.md) 
 
-### [Harlingen.personal](/_personal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Friesland\CityHarlingen.personal.md) 
+### [Harlingen.private](/_private/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Friesland/City/Harlingen.private.md) 
 
-### [Harlingen.secret](/_secret/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Friesland\CityHarlingen.secret.md)
+### [Harlingen.personal](/_personal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Friesland/City/Harlingen.personal.md) 
+
+### [Harlingen.secret](/_secret/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Friesland/City/Harlingen.secret.md)
 

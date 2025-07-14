@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Assen.public](/_public/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Overijssel\CityAssen.public.md) 
+### [Assen](/_Standards/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Overijssel/City/Assen.md) 
 
-### [Assen.internal](/_internal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Overijssel\CityAssen.internal.md) 
+### [Assen.public](/_public/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Overijssel/City/Assen.public.md) 
 
-### [Assen.protect](/_protect/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Overijssel\CityAssen.protect.md) 
+### [Assen.internal](/_internal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Overijssel/City/Assen.internal.md) 
 
-### [Assen.private](/_private/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Overijssel\CityAssen.private.md) 
+### [Assen.protect](/_protect/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Overijssel/City/Assen.protect.md) 
 
-### [Assen.personal](/_personal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Overijssel\CityAssen.personal.md) 
+### [Assen.private](/_private/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Overijssel/City/Assen.private.md) 
 
-### [Assen.secret](/_secret/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Overijssel\CityAssen.secret.md)
+### [Assen.personal](/_personal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Overijssel/City/Assen.personal.md) 
+
+### [Assen.secret](/_secret/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Overijssel/City/Assen.secret.md)
 

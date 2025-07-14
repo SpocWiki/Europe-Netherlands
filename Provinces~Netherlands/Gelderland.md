@@ -41,15 +41,17 @@ markerFolder: ./Gelderland/
 
 ## Confidential Links & Embeds: 
 
-### [Gelderland.public](/_public/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~NetherlandsGelderland.public.md) 
+### [Gelderland](/_Standards/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Gelderland.md) 
 
-### [Gelderland.internal](/_internal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~NetherlandsGelderland.internal.md) 
+### [Gelderland.public](/_public/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Gelderland.public.md) 
 
-### [Gelderland.protect](/_protect/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~NetherlandsGelderland.protect.md) 
+### [Gelderland.internal](/_internal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Gelderland.internal.md) 
 
-### [Gelderland.private](/_private/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~NetherlandsGelderland.private.md) 
+### [Gelderland.protect](/_protect/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Gelderland.protect.md) 
 
-### [Gelderland.personal](/_personal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~NetherlandsGelderland.personal.md) 
+### [Gelderland.private](/_private/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Gelderland.private.md) 
 
-### [Gelderland.secret](/_secret/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~NetherlandsGelderland.secret.md)
+### [Gelderland.personal](/_personal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Gelderland.personal.md) 
+
+### [Gelderland.secret](/_secret/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Gelderland.secret.md)
 

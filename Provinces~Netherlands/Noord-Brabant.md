@@ -41,15 +41,17 @@ markerFolder: ./Noord-Brabant/
 
 ## Confidential Links & Embeds: 
 
-### [Noord-Brabant.public](/_public/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~NetherlandsNoord-Brabant.public.md) 
+### [Noord-Brabant](/_Standards/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Noord-Brabant.md) 
 
-### [Noord-Brabant.internal](/_internal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~NetherlandsNoord-Brabant.internal.md) 
+### [Noord-Brabant.public](/_public/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Noord-Brabant.public.md) 
 
-### [Noord-Brabant.protect](/_protect/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~NetherlandsNoord-Brabant.protect.md) 
+### [Noord-Brabant.internal](/_internal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Noord-Brabant.internal.md) 
 
-### [Noord-Brabant.private](/_private/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~NetherlandsNoord-Brabant.private.md) 
+### [Noord-Brabant.protect](/_protect/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Noord-Brabant.protect.md) 
 
-### [Noord-Brabant.personal](/_personal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~NetherlandsNoord-Brabant.personal.md) 
+### [Noord-Brabant.private](/_private/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Noord-Brabant.private.md) 
 
-### [Noord-Brabant.secret](/_secret/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~NetherlandsNoord-Brabant.secret.md)
+### [Noord-Brabant.personal](/_personal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Noord-Brabant.personal.md) 
+
+### [Noord-Brabant.secret](/_secret/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Noord-Brabant.secret.md)
 

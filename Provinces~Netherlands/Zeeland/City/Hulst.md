@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hulst.public](/_public/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zeeland\CityHulst.public.md) 
+### [Hulst](/_Standards/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Zeeland/City/Hulst.md) 
 
-### [Hulst.internal](/_internal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zeeland\CityHulst.internal.md) 
+### [Hulst.public](/_public/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Zeeland/City/Hulst.public.md) 
 
-### [Hulst.protect](/_protect/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zeeland\CityHulst.protect.md) 
+### [Hulst.internal](/_internal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Zeeland/City/Hulst.internal.md) 
 
-### [Hulst.private](/_private/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zeeland\CityHulst.private.md) 
+### [Hulst.protect](/_protect/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Zeeland/City/Hulst.protect.md) 
 
-### [Hulst.personal](/_personal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zeeland\CityHulst.personal.md) 
+### [Hulst.private](/_private/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Zeeland/City/Hulst.private.md) 
 
-### [Hulst.secret](/_secret/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zeeland\CityHulst.secret.md)
+### [Hulst.personal](/_personal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Zeeland/City/Hulst.personal.md) 
+
+### [Hulst.secret](/_secret/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Zeeland/City/Hulst.secret.md)
 

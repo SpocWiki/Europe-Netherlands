@@ -41,15 +41,17 @@ markerFolder: ./Zeeland/
 
 ## Confidential Links & Embeds: 
 
-### [Zeeland.public](/_public/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~NetherlandsZeeland.public.md) 
+### [Zeeland](/_Standards/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Zeeland.md) 
 
-### [Zeeland.internal](/_internal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~NetherlandsZeeland.internal.md) 
+### [Zeeland.public](/_public/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Zeeland.public.md) 
 
-### [Zeeland.protect](/_protect/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~NetherlandsZeeland.protect.md) 
+### [Zeeland.internal](/_internal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Zeeland.internal.md) 
 
-### [Zeeland.private](/_private/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~NetherlandsZeeland.private.md) 
+### [Zeeland.protect](/_protect/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Zeeland.protect.md) 
 
-### [Zeeland.personal](/_personal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~NetherlandsZeeland.personal.md) 
+### [Zeeland.private](/_private/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Zeeland.private.md) 
 
-### [Zeeland.secret](/_secret/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~NetherlandsZeeland.secret.md)
+### [Zeeland.personal](/_personal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Zeeland.personal.md) 
+
+### [Zeeland.secret](/_secret/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Zeeland.secret.md)
 

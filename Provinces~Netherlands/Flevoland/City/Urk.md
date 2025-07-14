@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Urk.public](/_public/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Flevoland\CityUrk.public.md) 
+### [Urk](/_Standards/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Flevoland/City/Urk.md) 
 
-### [Urk.internal](/_internal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Flevoland\CityUrk.internal.md) 
+### [Urk.public](/_public/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Flevoland/City/Urk.public.md) 
 
-### [Urk.protect](/_protect/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Flevoland\CityUrk.protect.md) 
+### [Urk.internal](/_internal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Flevoland/City/Urk.internal.md) 
 
-### [Urk.private](/_private/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Flevoland\CityUrk.private.md) 
+### [Urk.protect](/_protect/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Flevoland/City/Urk.protect.md) 
 
-### [Urk.personal](/_personal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Flevoland\CityUrk.personal.md) 
+### [Urk.private](/_private/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Flevoland/City/Urk.private.md) 
 
-### [Urk.secret](/_secret/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Flevoland\CityUrk.secret.md)
+### [Urk.personal](/_personal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Flevoland/City/Urk.personal.md) 
+
+### [Urk.secret](/_secret/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Flevoland/City/Urk.secret.md)
 

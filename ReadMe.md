@@ -137,15 +137,17 @@ Capital :: [[Amsterdam]]
 
 ## Confidential Links & Embeds: 
 
-### [ReadMe.public](/_public/\Earth\Continent\Europe\Europe~West\NetherlandsReadMe.public.md) 
+### [ReadMe](/_Standards/Earth/Continent/Europe/Europe~West/Netherlands/ReadMe.md) 
 
-### [ReadMe.internal](/_internal/\Earth\Continent\Europe\Europe~West\NetherlandsReadMe.internal.md) 
+### [ReadMe.public](/_public/Earth/Continent/Europe/Europe~West/Netherlands/ReadMe.public.md) 
 
-### [ReadMe.protect](/_protect/\Earth\Continent\Europe\Europe~West\NetherlandsReadMe.protect.md) 
+### [ReadMe.internal](/_internal/Earth/Continent/Europe/Europe~West/Netherlands/ReadMe.internal.md) 
 
-### [ReadMe.private](/_private/\Earth\Continent\Europe\Europe~West\NetherlandsReadMe.private.md) 
+### [ReadMe.protect](/_protect/Earth/Continent/Europe/Europe~West/Netherlands/ReadMe.protect.md) 
 
-### [ReadMe.personal](/_personal/\Earth\Continent\Europe\Europe~West\NetherlandsReadMe.personal.md) 
+### [ReadMe.private](/_private/Earth/Continent/Europe/Europe~West/Netherlands/ReadMe.private.md) 
 
-### [ReadMe.secret](/_secret/\Earth\Continent\Europe\Europe~West\NetherlandsReadMe.secret.md)
+### [ReadMe.personal](/_personal/Earth/Continent/Europe/Europe~West/Netherlands/ReadMe.personal.md) 
+
+### [ReadMe.secret](/_secret/Earth/Continent/Europe/Europe~West/Netherlands/ReadMe.secret.md)
 

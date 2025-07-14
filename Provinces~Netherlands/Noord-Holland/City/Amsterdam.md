@@ -197,15 +197,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Amsterdam.public](/_public/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Holland\CityAmsterdam.public.md) 
+### [Amsterdam](/_Standards/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Noord-Holland/City/Amsterdam.md) 
 
-### [Amsterdam.internal](/_internal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Holland\CityAmsterdam.internal.md) 
+### [Amsterdam.public](/_public/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Noord-Holland/City/Amsterdam.public.md) 
 
-### [Amsterdam.protect](/_protect/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Holland\CityAmsterdam.protect.md) 
+### [Amsterdam.internal](/_internal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Noord-Holland/City/Amsterdam.internal.md) 
 
-### [Amsterdam.private](/_private/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Holland\CityAmsterdam.private.md) 
+### [Amsterdam.protect](/_protect/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Noord-Holland/City/Amsterdam.protect.md) 
 
-### [Amsterdam.personal](/_personal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Holland\CityAmsterdam.personal.md) 
+### [Amsterdam.private](/_private/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Noord-Holland/City/Amsterdam.private.md) 
 
-### [Amsterdam.secret](/_secret/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Holland\CityAmsterdam.secret.md)
+### [Amsterdam.personal](/_personal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Noord-Holland/City/Amsterdam.personal.md) 
+
+### [Amsterdam.secret](/_secret/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Noord-Holland/City/Amsterdam.secret.md)
 

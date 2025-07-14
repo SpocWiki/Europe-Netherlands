@@ -41,15 +41,17 @@ markerFolder: ./Groningen/
 
 ## Confidential Links & Embeds: 
 
-### [Groningen,Province.public](/_public/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~NetherlandsGroningen,Province.public.md) 
+### [Groningen,Province](/_Standards/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Groningen,Province.md) 
 
-### [Groningen,Province.internal](/_internal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~NetherlandsGroningen,Province.internal.md) 
+### [Groningen,Province.public](/_public/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Groningen,Province.public.md) 
 
-### [Groningen,Province.protect](/_protect/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~NetherlandsGroningen,Province.protect.md) 
+### [Groningen,Province.internal](/_internal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Groningen,Province.internal.md) 
 
-### [Groningen,Province.private](/_private/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~NetherlandsGroningen,Province.private.md) 
+### [Groningen,Province.protect](/_protect/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Groningen,Province.protect.md) 
 
-### [Groningen,Province.personal](/_personal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~NetherlandsGroningen,Province.personal.md) 
+### [Groningen,Province.private](/_private/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Groningen,Province.private.md) 
 
-### [Groningen,Province.secret](/_secret/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~NetherlandsGroningen,Province.secret.md)
+### [Groningen,Province.personal](/_personal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Groningen,Province.personal.md) 
+
+### [Groningen,Province.secret](/_secret/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Groningen,Province.secret.md)
 

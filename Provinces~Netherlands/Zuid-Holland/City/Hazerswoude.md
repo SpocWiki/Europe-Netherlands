@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hazerswoude.public](/_public/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zuid-Holland\CityHazerswoude.public.md) 
+### [Hazerswoude](/_Standards/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Zuid-Holland/City/Hazerswoude.md) 
 
-### [Hazerswoude.internal](/_internal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zuid-Holland\CityHazerswoude.internal.md) 
+### [Hazerswoude.public](/_public/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Zuid-Holland/City/Hazerswoude.public.md) 
 
-### [Hazerswoude.protect](/_protect/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zuid-Holland\CityHazerswoude.protect.md) 
+### [Hazerswoude.internal](/_internal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Zuid-Holland/City/Hazerswoude.internal.md) 
 
-### [Hazerswoude.private](/_private/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zuid-Holland\CityHazerswoude.private.md) 
+### [Hazerswoude.protect](/_protect/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Zuid-Holland/City/Hazerswoude.protect.md) 
 
-### [Hazerswoude.personal](/_personal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zuid-Holland\CityHazerswoude.personal.md) 
+### [Hazerswoude.private](/_private/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Zuid-Holland/City/Hazerswoude.private.md) 
 
-### [Hazerswoude.secret](/_secret/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zuid-Holland\CityHazerswoude.secret.md)
+### [Hazerswoude.personal](/_personal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Zuid-Holland/City/Hazerswoude.personal.md) 
+
+### [Hazerswoude.secret](/_secret/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Zuid-Holland/City/Hazerswoude.secret.md)
 

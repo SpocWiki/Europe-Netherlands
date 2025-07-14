@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Brielle.public](/_public/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zuid-Holland\CityBrielle.public.md) 
+### [Brielle](/_Standards/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Zuid-Holland/City/Brielle.md) 
 
-### [Brielle.internal](/_internal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zuid-Holland\CityBrielle.internal.md) 
+### [Brielle.public](/_public/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Zuid-Holland/City/Brielle.public.md) 
 
-### [Brielle.protect](/_protect/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zuid-Holland\CityBrielle.protect.md) 
+### [Brielle.internal](/_internal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Zuid-Holland/City/Brielle.internal.md) 
 
-### [Brielle.private](/_private/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zuid-Holland\CityBrielle.private.md) 
+### [Brielle.protect](/_protect/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Zuid-Holland/City/Brielle.protect.md) 
 
-### [Brielle.personal](/_personal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zuid-Holland\CityBrielle.personal.md) 
+### [Brielle.private](/_private/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Zuid-Holland/City/Brielle.private.md) 
 
-### [Brielle.secret](/_secret/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zuid-Holland\CityBrielle.secret.md)
+### [Brielle.personal](/_personal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Zuid-Holland/City/Brielle.personal.md) 
+
+### [Brielle.secret](/_secret/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Zuid-Holland/City/Brielle.secret.md)
 

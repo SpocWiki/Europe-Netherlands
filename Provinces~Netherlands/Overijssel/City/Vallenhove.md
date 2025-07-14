@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Vallenhove.public](/_public/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Overijssel\CityVallenhove.public.md) 
+### [Vallenhove](/_Standards/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Overijssel/City/Vallenhove.md) 
 
-### [Vallenhove.internal](/_internal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Overijssel\CityVallenhove.internal.md) 
+### [Vallenhove.public](/_public/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Overijssel/City/Vallenhove.public.md) 
 
-### [Vallenhove.protect](/_protect/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Overijssel\CityVallenhove.protect.md) 
+### [Vallenhove.internal](/_internal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Overijssel/City/Vallenhove.internal.md) 
 
-### [Vallenhove.private](/_private/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Overijssel\CityVallenhove.private.md) 
+### [Vallenhove.protect](/_protect/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Overijssel/City/Vallenhove.protect.md) 
 
-### [Vallenhove.personal](/_personal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Overijssel\CityVallenhove.personal.md) 
+### [Vallenhove.private](/_private/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Overijssel/City/Vallenhove.private.md) 
 
-### [Vallenhove.secret](/_secret/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Overijssel\CityVallenhove.secret.md)
+### [Vallenhove.personal](/_personal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Overijssel/City/Vallenhove.personal.md) 
+
+### [Vallenhove.secret](/_secret/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Overijssel/City/Vallenhove.secret.md)
 

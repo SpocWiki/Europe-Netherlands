@@ -38,15 +38,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Den_Haag.public](/_public/\Earth\Continent\Europe\Europe~West\Netherlands\CityDen_Haag.public.md) 
+### [Den_Haag](/_Standards/Earth/Continent/Europe/Europe~West/Netherlands/City/Den_Haag.md) 
 
-### [Den_Haag.internal](/_internal/\Earth\Continent\Europe\Europe~West\Netherlands\CityDen_Haag.internal.md) 
+### [Den_Haag.public](/_public/Earth/Continent/Europe/Europe~West/Netherlands/City/Den_Haag.public.md) 
 
-### [Den_Haag.protect](/_protect/\Earth\Continent\Europe\Europe~West\Netherlands\CityDen_Haag.protect.md) 
+### [Den_Haag.internal](/_internal/Earth/Continent/Europe/Europe~West/Netherlands/City/Den_Haag.internal.md) 
 
-### [Den_Haag.private](/_private/\Earth\Continent\Europe\Europe~West\Netherlands\CityDen_Haag.private.md) 
+### [Den_Haag.protect](/_protect/Earth/Continent/Europe/Europe~West/Netherlands/City/Den_Haag.protect.md) 
 
-### [Den_Haag.personal](/_personal/\Earth\Continent\Europe\Europe~West\Netherlands\CityDen_Haag.personal.md) 
+### [Den_Haag.private](/_private/Earth/Continent/Europe/Europe~West/Netherlands/City/Den_Haag.private.md) 
 
-### [Den_Haag.secret](/_secret/\Earth\Continent\Europe\Europe~West\Netherlands\CityDen_Haag.secret.md)
+### [Den_Haag.personal](/_personal/Earth/Continent/Europe/Europe~West/Netherlands/City/Den_Haag.personal.md) 
+
+### [Den_Haag.secret](/_secret/Earth/Continent/Europe/Europe~West/Netherlands/City/Den_Haag.secret.md)
 

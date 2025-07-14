@@ -41,15 +41,17 @@ markerFolder: ./Noord-Holland/
 
 ## Confidential Links & Embeds: 
 
-### [Noord-Holland.public](/_public/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~NetherlandsNoord-Holland.public.md) 
+### [Noord-Holland](/_Standards/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Noord-Holland.md) 
 
-### [Noord-Holland.internal](/_internal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~NetherlandsNoord-Holland.internal.md) 
+### [Noord-Holland.public](/_public/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Noord-Holland.public.md) 
 
-### [Noord-Holland.protect](/_protect/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~NetherlandsNoord-Holland.protect.md) 
+### [Noord-Holland.internal](/_internal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Noord-Holland.internal.md) 
 
-### [Noord-Holland.private](/_private/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~NetherlandsNoord-Holland.private.md) 
+### [Noord-Holland.protect](/_protect/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Noord-Holland.protect.md) 
 
-### [Noord-Holland.personal](/_personal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~NetherlandsNoord-Holland.personal.md) 
+### [Noord-Holland.private](/_private/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Noord-Holland.private.md) 
 
-### [Noord-Holland.secret](/_secret/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~NetherlandsNoord-Holland.secret.md)
+### [Noord-Holland.personal](/_personal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Noord-Holland.personal.md) 
+
+### [Noord-Holland.secret](/_secret/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Noord-Holland.secret.md)
 

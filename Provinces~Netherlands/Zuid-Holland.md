@@ -41,15 +41,17 @@ markerFolder: ./Zuid-Holland/
 
 ## Confidential Links & Embeds: 
 
-### [Zuid-Holland.public](/_public/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~NetherlandsZuid-Holland.public.md) 
+### [Zuid-Holland](/_Standards/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Zuid-Holland.md) 
 
-### [Zuid-Holland.internal](/_internal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~NetherlandsZuid-Holland.internal.md) 
+### [Zuid-Holland.public](/_public/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Zuid-Holland.public.md) 
 
-### [Zuid-Holland.protect](/_protect/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~NetherlandsZuid-Holland.protect.md) 
+### [Zuid-Holland.internal](/_internal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Zuid-Holland.internal.md) 
 
-### [Zuid-Holland.private](/_private/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~NetherlandsZuid-Holland.private.md) 
+### [Zuid-Holland.protect](/_protect/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Zuid-Holland.protect.md) 
 
-### [Zuid-Holland.personal](/_personal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~NetherlandsZuid-Holland.personal.md) 
+### [Zuid-Holland.private](/_private/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Zuid-Holland.private.md) 
 
-### [Zuid-Holland.secret](/_secret/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~NetherlandsZuid-Holland.secret.md)
+### [Zuid-Holland.personal](/_personal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Zuid-Holland.personal.md) 
+
+### [Zuid-Holland.secret](/_secret/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Zuid-Holland.secret.md)
 

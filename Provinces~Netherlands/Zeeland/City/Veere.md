@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Veere.public](/_public/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zeeland\CityVeere.public.md) 
+### [Veere](/_Standards/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Zeeland/City/Veere.md) 
 
-### [Veere.internal](/_internal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zeeland\CityVeere.internal.md) 
+### [Veere.public](/_public/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Zeeland/City/Veere.public.md) 
 
-### [Veere.protect](/_protect/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zeeland\CityVeere.protect.md) 
+### [Veere.internal](/_internal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Zeeland/City/Veere.internal.md) 
 
-### [Veere.private](/_private/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zeeland\CityVeere.private.md) 
+### [Veere.protect](/_protect/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Zeeland/City/Veere.protect.md) 
 
-### [Veere.personal](/_personal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zeeland\CityVeere.personal.md) 
+### [Veere.private](/_private/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Zeeland/City/Veere.private.md) 
 
-### [Veere.secret](/_secret/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zeeland\CityVeere.secret.md)
+### [Veere.personal](/_personal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Zeeland/City/Veere.personal.md) 
+
+### [Veere.secret](/_secret/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Zeeland/City/Veere.secret.md)
 

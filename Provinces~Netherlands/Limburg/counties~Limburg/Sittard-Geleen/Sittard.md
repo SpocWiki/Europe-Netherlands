@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sittard.public](/_public/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Limburg\counties~Limburg\Sittard-GeleenSittard.public.md) 
+### [Sittard](/_Standards/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Limburg/counties~Limburg/Sittard-Geleen/Sittard.md) 
 
-### [Sittard.internal](/_internal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Limburg\counties~Limburg\Sittard-GeleenSittard.internal.md) 
+### [Sittard.public](/_public/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Limburg/counties~Limburg/Sittard-Geleen/Sittard.public.md) 
 
-### [Sittard.protect](/_protect/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Limburg\counties~Limburg\Sittard-GeleenSittard.protect.md) 
+### [Sittard.internal](/_internal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Limburg/counties~Limburg/Sittard-Geleen/Sittard.internal.md) 
 
-### [Sittard.private](/_private/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Limburg\counties~Limburg\Sittard-GeleenSittard.private.md) 
+### [Sittard.protect](/_protect/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Limburg/counties~Limburg/Sittard-Geleen/Sittard.protect.md) 
 
-### [Sittard.personal](/_personal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Limburg\counties~Limburg\Sittard-GeleenSittard.personal.md) 
+### [Sittard.private](/_private/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Limburg/counties~Limburg/Sittard-Geleen/Sittard.private.md) 
 
-### [Sittard.secret](/_secret/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Limburg\counties~Limburg\Sittard-GeleenSittard.secret.md)
+### [Sittard.personal](/_personal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Limburg/counties~Limburg/Sittard-Geleen/Sittard.personal.md) 
+
+### [Sittard.secret](/_secret/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Limburg/counties~Limburg/Sittard-Geleen/Sittard.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Den_Bosch.public](/_public/\Earth\Continent\Europe\Europe~West\Netherlands\CityDen_Bosch.public.md) 
+### [Den_Bosch](/_Standards/Earth/Continent/Europe/Europe~West/Netherlands/City/Den_Bosch.md) 
 
-### [Den_Bosch.internal](/_internal/\Earth\Continent\Europe\Europe~West\Netherlands\CityDen_Bosch.internal.md) 
+### [Den_Bosch.public](/_public/Earth/Continent/Europe/Europe~West/Netherlands/City/Den_Bosch.public.md) 
 
-### [Den_Bosch.protect](/_protect/\Earth\Continent\Europe\Europe~West\Netherlands\CityDen_Bosch.protect.md) 
+### [Den_Bosch.internal](/_internal/Earth/Continent/Europe/Europe~West/Netherlands/City/Den_Bosch.internal.md) 
 
-### [Den_Bosch.private](/_private/\Earth\Continent\Europe\Europe~West\Netherlands\CityDen_Bosch.private.md) 
+### [Den_Bosch.protect](/_protect/Earth/Continent/Europe/Europe~West/Netherlands/City/Den_Bosch.protect.md) 
 
-### [Den_Bosch.personal](/_personal/\Earth\Continent\Europe\Europe~West\Netherlands\CityDen_Bosch.personal.md) 
+### [Den_Bosch.private](/_private/Earth/Continent/Europe/Europe~West/Netherlands/City/Den_Bosch.private.md) 
 
-### [Den_Bosch.secret](/_secret/\Earth\Continent\Europe\Europe~West\Netherlands\CityDen_Bosch.secret.md)
+### [Den_Bosch.personal](/_personal/Earth/Continent/Europe/Europe~West/Netherlands/City/Den_Bosch.personal.md) 
+
+### [Den_Bosch.secret](/_secret/Earth/Continent/Europe/Europe~West/Netherlands/City/Den_Bosch.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Amersfoort.public](/_public/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Utrecht,Province\counties~Utrecht\AmersfoortAmersfoort.public.md) 
+### [Amersfoort](/_Standards/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Utrecht,Province/counties~Utrecht/Amersfoort/Amersfoort.md) 
 
-### [Amersfoort.internal](/_internal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Utrecht,Province\counties~Utrecht\AmersfoortAmersfoort.internal.md) 
+### [Amersfoort.public](/_public/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Utrecht,Province/counties~Utrecht/Amersfoort/Amersfoort.public.md) 
 
-### [Amersfoort.protect](/_protect/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Utrecht,Province\counties~Utrecht\AmersfoortAmersfoort.protect.md) 
+### [Amersfoort.internal](/_internal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Utrecht,Province/counties~Utrecht/Amersfoort/Amersfoort.internal.md) 
 
-### [Amersfoort.private](/_private/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Utrecht,Province\counties~Utrecht\AmersfoortAmersfoort.private.md) 
+### [Amersfoort.protect](/_protect/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Utrecht,Province/counties~Utrecht/Amersfoort/Amersfoort.protect.md) 
 
-### [Amersfoort.personal](/_personal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Utrecht,Province\counties~Utrecht\AmersfoortAmersfoort.personal.md) 
+### [Amersfoort.private](/_private/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Utrecht,Province/counties~Utrecht/Amersfoort/Amersfoort.private.md) 
 
-### [Amersfoort.secret](/_secret/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Utrecht,Province\counties~Utrecht\AmersfoortAmersfoort.secret.md)
+### [Amersfoort.personal](/_personal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Utrecht,Province/counties~Utrecht/Amersfoort/Amersfoort.personal.md) 
+
+### [Amersfoort.secret](/_secret/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Utrecht,Province/counties~Utrecht/Amersfoort/Amersfoort.secret.md)
 

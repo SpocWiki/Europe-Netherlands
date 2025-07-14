@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Leeuwarden.public](/_public/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Friesland\CityLeeuwarden.public.md) 
+### [Leeuwarden](/_Standards/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Friesland/City/Leeuwarden.md) 
 
-### [Leeuwarden.internal](/_internal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Friesland\CityLeeuwarden.internal.md) 
+### [Leeuwarden.public](/_public/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Friesland/City/Leeuwarden.public.md) 
 
-### [Leeuwarden.protect](/_protect/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Friesland\CityLeeuwarden.protect.md) 
+### [Leeuwarden.internal](/_internal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Friesland/City/Leeuwarden.internal.md) 
 
-### [Leeuwarden.private](/_private/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Friesland\CityLeeuwarden.private.md) 
+### [Leeuwarden.protect](/_protect/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Friesland/City/Leeuwarden.protect.md) 
 
-### [Leeuwarden.personal](/_personal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Friesland\CityLeeuwarden.personal.md) 
+### [Leeuwarden.private](/_private/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Friesland/City/Leeuwarden.private.md) 
 
-### [Leeuwarden.secret](/_secret/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Friesland\CityLeeuwarden.secret.md)
+### [Leeuwarden.personal](/_personal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Friesland/City/Leeuwarden.personal.md) 
+
+### [Leeuwarden.secret](/_secret/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Friesland/City/Leeuwarden.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Akkrum.public](/_public/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Friesland\CityAkkrum.public.md) 
+### [Akkrum](/_Standards/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Friesland/City/Akkrum.md) 
 
-### [Akkrum.internal](/_internal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Friesland\CityAkkrum.internal.md) 
+### [Akkrum.public](/_public/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Friesland/City/Akkrum.public.md) 
 
-### [Akkrum.protect](/_protect/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Friesland\CityAkkrum.protect.md) 
+### [Akkrum.internal](/_internal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Friesland/City/Akkrum.internal.md) 
 
-### [Akkrum.private](/_private/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Friesland\CityAkkrum.private.md) 
+### [Akkrum.protect](/_protect/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Friesland/City/Akkrum.protect.md) 
 
-### [Akkrum.personal](/_personal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Friesland\CityAkkrum.personal.md) 
+### [Akkrum.private](/_private/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Friesland/City/Akkrum.private.md) 
 
-### [Akkrum.secret](/_secret/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Friesland\CityAkkrum.secret.md)
+### [Akkrum.personal](/_personal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Friesland/City/Akkrum.personal.md) 
+
+### [Akkrum.secret](/_secret/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Friesland/City/Akkrum.secret.md)
 

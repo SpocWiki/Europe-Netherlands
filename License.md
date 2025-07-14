@@ -113,15 +113,17 @@ Creative Commons may be contacted at <http://creativecommons.org/>.
 
 ## Confidential Links & Embeds: 
 
-### [License.public](/_public/\Earth\Continent\Europe\Europe~West\NetherlandsLicense.public.md) 
+### [License](/_Standards/Earth/Continent/Europe/Europe~West/Netherlands/License.md) 
 
-### [License.internal](/_internal/\Earth\Continent\Europe\Europe~West\NetherlandsLicense.internal.md) 
+### [License.public](/_public/Earth/Continent/Europe/Europe~West/Netherlands/License.public.md) 
 
-### [License.protect](/_protect/\Earth\Continent\Europe\Europe~West\NetherlandsLicense.protect.md) 
+### [License.internal](/_internal/Earth/Continent/Europe/Europe~West/Netherlands/License.internal.md) 
 
-### [License.private](/_private/\Earth\Continent\Europe\Europe~West\NetherlandsLicense.private.md) 
+### [License.protect](/_protect/Earth/Continent/Europe/Europe~West/Netherlands/License.protect.md) 
 
-### [License.personal](/_personal/\Earth\Continent\Europe\Europe~West\NetherlandsLicense.personal.md) 
+### [License.private](/_private/Earth/Continent/Europe/Europe~West/Netherlands/License.private.md) 
 
-### [License.secret](/_secret/\Earth\Continent\Europe\Europe~West\NetherlandsLicense.secret.md)
+### [License.personal](/_personal/Earth/Continent/Europe/Europe~West/Netherlands/License.personal.md) 
+
+### [License.secret](/_secret/Earth/Continent/Europe/Europe~West/Netherlands/License.secret.md)
 

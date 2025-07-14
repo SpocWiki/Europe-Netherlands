@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Heerlen.public](/_public/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Limburg\CityHeerlen.public.md) 
+### [Heerlen](/_Standards/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Limburg/City/Heerlen.md) 
 
-### [Heerlen.internal](/_internal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Limburg\CityHeerlen.internal.md) 
+### [Heerlen.public](/_public/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Limburg/City/Heerlen.public.md) 
 
-### [Heerlen.protect](/_protect/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Limburg\CityHeerlen.protect.md) 
+### [Heerlen.internal](/_internal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Limburg/City/Heerlen.internal.md) 
 
-### [Heerlen.private](/_private/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Limburg\CityHeerlen.private.md) 
+### [Heerlen.protect](/_protect/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Limburg/City/Heerlen.protect.md) 
 
-### [Heerlen.personal](/_personal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Limburg\CityHeerlen.personal.md) 
+### [Heerlen.private](/_private/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Limburg/City/Heerlen.private.md) 
 
-### [Heerlen.secret](/_secret/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Limburg\CityHeerlen.secret.md)
+### [Heerlen.personal](/_personal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Limburg/City/Heerlen.personal.md) 
+
+### [Heerlen.secret](/_secret/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Limburg/City/Heerlen.secret.md)
 

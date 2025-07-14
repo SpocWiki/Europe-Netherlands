@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Helder=Den_Helder.public](/_public/\Earth\Continent\Europe\Europe~West\Netherlands\CityHelder=Den_Helder.public.md) 
+### [Helder=Den_Helder](/_Standards/Earth/Continent/Europe/Europe~West/Netherlands/City/Helder=Den_Helder.md) 
 
-### [Helder=Den_Helder.internal](/_internal/\Earth\Continent\Europe\Europe~West\Netherlands\CityHelder=Den_Helder.internal.md) 
+### [Helder=Den_Helder.public](/_public/Earth/Continent/Europe/Europe~West/Netherlands/City/Helder=Den_Helder.public.md) 
 
-### [Helder=Den_Helder.protect](/_protect/\Earth\Continent\Europe\Europe~West\Netherlands\CityHelder=Den_Helder.protect.md) 
+### [Helder=Den_Helder.internal](/_internal/Earth/Continent/Europe/Europe~West/Netherlands/City/Helder=Den_Helder.internal.md) 
 
-### [Helder=Den_Helder.private](/_private/\Earth\Continent\Europe\Europe~West\Netherlands\CityHelder=Den_Helder.private.md) 
+### [Helder=Den_Helder.protect](/_protect/Earth/Continent/Europe/Europe~West/Netherlands/City/Helder=Den_Helder.protect.md) 
 
-### [Helder=Den_Helder.personal](/_personal/\Earth\Continent\Europe\Europe~West\Netherlands\CityHelder=Den_Helder.personal.md) 
+### [Helder=Den_Helder.private](/_private/Earth/Continent/Europe/Europe~West/Netherlands/City/Helder=Den_Helder.private.md) 
 
-### [Helder=Den_Helder.secret](/_secret/\Earth\Continent\Europe\Europe~West\Netherlands\CityHelder=Den_Helder.secret.md)
+### [Helder=Den_Helder.personal](/_personal/Earth/Continent/Europe/Europe~West/Netherlands/City/Helder=Den_Helder.personal.md) 
+
+### [Helder=Den_Helder.secret](/_secret/Earth/Continent/Europe/Europe~West/Netherlands/City/Helder=Den_Helder.secret.md)
 

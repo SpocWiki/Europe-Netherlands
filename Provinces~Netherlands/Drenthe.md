@@ -41,15 +41,17 @@ markerFolder: ./Drenthe/
 
 ## Confidential Links & Embeds: 
 
-### [Drenthe.public](/_public/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~NetherlandsDrenthe.public.md) 
+### [Drenthe](/_Standards/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Drenthe.md) 
 
-### [Drenthe.internal](/_internal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~NetherlandsDrenthe.internal.md) 
+### [Drenthe.public](/_public/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Drenthe.public.md) 
 
-### [Drenthe.protect](/_protect/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~NetherlandsDrenthe.protect.md) 
+### [Drenthe.internal](/_internal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Drenthe.internal.md) 
 
-### [Drenthe.private](/_private/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~NetherlandsDrenthe.private.md) 
+### [Drenthe.protect](/_protect/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Drenthe.protect.md) 
 
-### [Drenthe.personal](/_personal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~NetherlandsDrenthe.personal.md) 
+### [Drenthe.private](/_private/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Drenthe.private.md) 
 
-### [Drenthe.secret](/_secret/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~NetherlandsDrenthe.secret.md)
+### [Drenthe.personal](/_personal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Drenthe.personal.md) 
+
+### [Drenthe.secret](/_secret/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Drenthe.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bergen_op_Zoom.public](/_public/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Brabant\CityBergen_op_Zoom.public.md) 
+### [Bergen_op_Zoom](/_Standards/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Noord-Brabant/City/Bergen_op_Zoom.md) 
 
-### [Bergen_op_Zoom.internal](/_internal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Brabant\CityBergen_op_Zoom.internal.md) 
+### [Bergen_op_Zoom.public](/_public/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Noord-Brabant/City/Bergen_op_Zoom.public.md) 
 
-### [Bergen_op_Zoom.protect](/_protect/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Brabant\CityBergen_op_Zoom.protect.md) 
+### [Bergen_op_Zoom.internal](/_internal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Noord-Brabant/City/Bergen_op_Zoom.internal.md) 
 
-### [Bergen_op_Zoom.private](/_private/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Brabant\CityBergen_op_Zoom.private.md) 
+### [Bergen_op_Zoom.protect](/_protect/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Noord-Brabant/City/Bergen_op_Zoom.protect.md) 
 
-### [Bergen_op_Zoom.personal](/_personal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Brabant\CityBergen_op_Zoom.personal.md) 
+### [Bergen_op_Zoom.private](/_private/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Noord-Brabant/City/Bergen_op_Zoom.private.md) 
 
-### [Bergen_op_Zoom.secret](/_secret/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Brabant\CityBergen_op_Zoom.secret.md)
+### [Bergen_op_Zoom.personal](/_personal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Noord-Brabant/City/Bergen_op_Zoom.personal.md) 
+
+### [Bergen_op_Zoom.secret](/_secret/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Noord-Brabant/City/Bergen_op_Zoom.secret.md)
 

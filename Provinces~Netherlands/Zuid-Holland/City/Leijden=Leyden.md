@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Leijden=Leyden.public](/_public/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zuid-Holland\CityLeijden=Leyden.public.md) 
+### [Leijden=Leyden](/_Standards/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Zuid-Holland/City/Leijden=Leyden.md) 
 
-### [Leijden=Leyden.internal](/_internal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zuid-Holland\CityLeijden=Leyden.internal.md) 
+### [Leijden=Leyden.public](/_public/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Zuid-Holland/City/Leijden=Leyden.public.md) 
 
-### [Leijden=Leyden.protect](/_protect/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zuid-Holland\CityLeijden=Leyden.protect.md) 
+### [Leijden=Leyden.internal](/_internal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Zuid-Holland/City/Leijden=Leyden.internal.md) 
 
-### [Leijden=Leyden.private](/_private/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zuid-Holland\CityLeijden=Leyden.private.md) 
+### [Leijden=Leyden.protect](/_protect/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Zuid-Holland/City/Leijden=Leyden.protect.md) 
 
-### [Leijden=Leyden.personal](/_personal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zuid-Holland\CityLeijden=Leyden.personal.md) 
+### [Leijden=Leyden.private](/_private/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Zuid-Holland/City/Leijden=Leyden.private.md) 
 
-### [Leijden=Leyden.secret](/_secret/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zuid-Holland\CityLeijden=Leyden.secret.md)
+### [Leijden=Leyden.personal](/_personal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Zuid-Holland/City/Leijden=Leyden.personal.md) 
+
+### [Leijden=Leyden.secret](/_secret/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Zuid-Holland/City/Leijden=Leyden.secret.md)
 

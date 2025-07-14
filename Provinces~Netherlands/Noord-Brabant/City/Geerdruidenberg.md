@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Geerdruidenberg.public](/_public/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Brabant\CityGeerdruidenberg.public.md) 
+### [Geerdruidenberg](/_Standards/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Noord-Brabant/City/Geerdruidenberg.md) 
 
-### [Geerdruidenberg.internal](/_internal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Brabant\CityGeerdruidenberg.internal.md) 
+### [Geerdruidenberg.public](/_public/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Noord-Brabant/City/Geerdruidenberg.public.md) 
 
-### [Geerdruidenberg.protect](/_protect/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Brabant\CityGeerdruidenberg.protect.md) 
+### [Geerdruidenberg.internal](/_internal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Noord-Brabant/City/Geerdruidenberg.internal.md) 
 
-### [Geerdruidenberg.private](/_private/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Brabant\CityGeerdruidenberg.private.md) 
+### [Geerdruidenberg.protect](/_protect/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Noord-Brabant/City/Geerdruidenberg.protect.md) 
 
-### [Geerdruidenberg.personal](/_personal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Brabant\CityGeerdruidenberg.personal.md) 
+### [Geerdruidenberg.private](/_private/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Noord-Brabant/City/Geerdruidenberg.private.md) 
 
-### [Geerdruidenberg.secret](/_secret/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Noord-Brabant\CityGeerdruidenberg.secret.md)
+### [Geerdruidenberg.personal](/_personal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Noord-Brabant/City/Geerdruidenberg.personal.md) 
+
+### [Geerdruidenberg.secret](/_secret/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Noord-Brabant/City/Geerdruidenberg.secret.md)
 

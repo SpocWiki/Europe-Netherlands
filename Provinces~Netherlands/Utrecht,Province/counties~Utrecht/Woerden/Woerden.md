@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Woerden.public](/_public/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Utrecht,Province\counties~Utrecht\WoerdenWoerden.public.md) 
+### [Woerden](/_Standards/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Utrecht,Province/counties~Utrecht/Woerden/Woerden.md) 
 
-### [Woerden.internal](/_internal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Utrecht,Province\counties~Utrecht\WoerdenWoerden.internal.md) 
+### [Woerden.public](/_public/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Utrecht,Province/counties~Utrecht/Woerden/Woerden.public.md) 
 
-### [Woerden.protect](/_protect/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Utrecht,Province\counties~Utrecht\WoerdenWoerden.protect.md) 
+### [Woerden.internal](/_internal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Utrecht,Province/counties~Utrecht/Woerden/Woerden.internal.md) 
 
-### [Woerden.private](/_private/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Utrecht,Province\counties~Utrecht\WoerdenWoerden.private.md) 
+### [Woerden.protect](/_protect/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Utrecht,Province/counties~Utrecht/Woerden/Woerden.protect.md) 
 
-### [Woerden.personal](/_personal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Utrecht,Province\counties~Utrecht\WoerdenWoerden.personal.md) 
+### [Woerden.private](/_private/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Utrecht,Province/counties~Utrecht/Woerden/Woerden.private.md) 
 
-### [Woerden.secret](/_secret/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Utrecht,Province\counties~Utrecht\WoerdenWoerden.secret.md)
+### [Woerden.personal](/_personal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Utrecht,Province/counties~Utrecht/Woerden/Woerden.personal.md) 
+
+### [Woerden.secret](/_secret/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Utrecht,Province/counties~Utrecht/Woerden/Woerden.secret.md)
 

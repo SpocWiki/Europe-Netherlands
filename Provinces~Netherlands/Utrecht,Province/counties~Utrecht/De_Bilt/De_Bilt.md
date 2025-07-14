@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [De_Bilt.public](/_public/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Utrecht,Province\counties~Utrecht\De_BiltDe_Bilt.public.md) 
+### [De_Bilt](/_Standards/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Utrecht,Province/counties~Utrecht/De_Bilt/De_Bilt.md) 
 
-### [De_Bilt.internal](/_internal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Utrecht,Province\counties~Utrecht\De_BiltDe_Bilt.internal.md) 
+### [De_Bilt.public](/_public/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Utrecht,Province/counties~Utrecht/De_Bilt/De_Bilt.public.md) 
 
-### [De_Bilt.protect](/_protect/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Utrecht,Province\counties~Utrecht\De_BiltDe_Bilt.protect.md) 
+### [De_Bilt.internal](/_internal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Utrecht,Province/counties~Utrecht/De_Bilt/De_Bilt.internal.md) 
 
-### [De_Bilt.private](/_private/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Utrecht,Province\counties~Utrecht\De_BiltDe_Bilt.private.md) 
+### [De_Bilt.protect](/_protect/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Utrecht,Province/counties~Utrecht/De_Bilt/De_Bilt.protect.md) 
 
-### [De_Bilt.personal](/_personal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Utrecht,Province\counties~Utrecht\De_BiltDe_Bilt.personal.md) 
+### [De_Bilt.private](/_private/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Utrecht,Province/counties~Utrecht/De_Bilt/De_Bilt.private.md) 
 
-### [De_Bilt.secret](/_secret/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Utrecht,Province\counties~Utrecht\De_BiltDe_Bilt.secret.md)
+### [De_Bilt.personal](/_personal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Utrecht,Province/counties~Utrecht/De_Bilt/De_Bilt.personal.md) 
+
+### [De_Bilt.secret](/_secret/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Utrecht,Province/counties~Utrecht/De_Bilt/De_Bilt.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Willemsaard.public](/_public/\Earth\Continent\Europe\Europe~West\Netherlands\CityWillemsaard.public.md) 
+### [Willemsaard](/_Standards/Earth/Continent/Europe/Europe~West/Netherlands/City/Willemsaard.md) 
 
-### [Willemsaard.internal](/_internal/\Earth\Continent\Europe\Europe~West\Netherlands\CityWillemsaard.internal.md) 
+### [Willemsaard.public](/_public/Earth/Continent/Europe/Europe~West/Netherlands/City/Willemsaard.public.md) 
 
-### [Willemsaard.protect](/_protect/\Earth\Continent\Europe\Europe~West\Netherlands\CityWillemsaard.protect.md) 
+### [Willemsaard.internal](/_internal/Earth/Continent/Europe/Europe~West/Netherlands/City/Willemsaard.internal.md) 
 
-### [Willemsaard.private](/_private/\Earth\Continent\Europe\Europe~West\Netherlands\CityWillemsaard.private.md) 
+### [Willemsaard.protect](/_protect/Earth/Continent/Europe/Europe~West/Netherlands/City/Willemsaard.protect.md) 
 
-### [Willemsaard.personal](/_personal/\Earth\Continent\Europe\Europe~West\Netherlands\CityWillemsaard.personal.md) 
+### [Willemsaard.private](/_private/Earth/Continent/Europe/Europe~West/Netherlands/City/Willemsaard.private.md) 
 
-### [Willemsaard.secret](/_secret/\Earth\Continent\Europe\Europe~West\Netherlands\CityWillemsaard.secret.md)
+### [Willemsaard.personal](/_personal/Earth/Continent/Europe/Europe~West/Netherlands/City/Willemsaard.personal.md) 
+
+### [Willemsaard.secret](/_secret/Earth/Continent/Europe/Europe~West/Netherlands/City/Willemsaard.secret.md)
 

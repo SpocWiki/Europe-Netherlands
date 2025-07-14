@@ -41,15 +41,17 @@ markerFolder: ./Friesland/
 
 ## Confidential Links & Embeds: 
 
-### [Friesland.public](/_public/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~NetherlandsFriesland.public.md) 
+### [Friesland](/_Standards/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Friesland.md) 
 
-### [Friesland.internal](/_internal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~NetherlandsFriesland.internal.md) 
+### [Friesland.public](/_public/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Friesland.public.md) 
 
-### [Friesland.protect](/_protect/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~NetherlandsFriesland.protect.md) 
+### [Friesland.internal](/_internal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Friesland.internal.md) 
 
-### [Friesland.private](/_private/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~NetherlandsFriesland.private.md) 
+### [Friesland.protect](/_protect/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Friesland.protect.md) 
 
-### [Friesland.personal](/_personal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~NetherlandsFriesland.personal.md) 
+### [Friesland.private](/_private/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Friesland.private.md) 
 
-### [Friesland.secret](/_secret/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~NetherlandsFriesland.secret.md)
+### [Friesland.personal](/_personal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Friesland.personal.md) 
+
+### [Friesland.secret](/_secret/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Friesland.secret.md)
 

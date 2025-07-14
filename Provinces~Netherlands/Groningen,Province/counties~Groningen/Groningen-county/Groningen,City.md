@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Groningen,City.public](/_public/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Groningen,Province\counties~Groningen\Groningen-countyGroningen,City.public.md) 
+### [Groningen,City](/_Standards/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Groningen,Province/counties~Groningen/Groningen-county/Groningen,City.md) 
 
-### [Groningen,City.internal](/_internal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Groningen,Province\counties~Groningen\Groningen-countyGroningen,City.internal.md) 
+### [Groningen,City.public](/_public/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Groningen,Province/counties~Groningen/Groningen-county/Groningen,City.public.md) 
 
-### [Groningen,City.protect](/_protect/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Groningen,Province\counties~Groningen\Groningen-countyGroningen,City.protect.md) 
+### [Groningen,City.internal](/_internal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Groningen,Province/counties~Groningen/Groningen-county/Groningen,City.internal.md) 
 
-### [Groningen,City.private](/_private/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Groningen,Province\counties~Groningen\Groningen-countyGroningen,City.private.md) 
+### [Groningen,City.protect](/_protect/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Groningen,Province/counties~Groningen/Groningen-county/Groningen,City.protect.md) 
 
-### [Groningen,City.personal](/_personal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Groningen,Province\counties~Groningen\Groningen-countyGroningen,City.personal.md) 
+### [Groningen,City.private](/_private/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Groningen,Province/counties~Groningen/Groningen-county/Groningen,City.private.md) 
 
-### [Groningen,City.secret](/_secret/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Groningen,Province\counties~Groningen\Groningen-countyGroningen,City.secret.md)
+### [Groningen,City.personal](/_personal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Groningen,Province/counties~Groningen/Groningen-county/Groningen,City.personal.md) 
+
+### [Groningen,City.secret](/_secret/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Groningen,Province/counties~Groningen/Groningen-county/Groningen,City.secret.md)
 

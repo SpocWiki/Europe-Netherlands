@@ -41,15 +41,17 @@ markerFolder: ./Overijssel/
 
 ## Confidential Links & Embeds: 
 
-### [Overijssel.public](/_public/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~NetherlandsOverijssel.public.md) 
+### [Overijssel](/_Standards/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Overijssel.md) 
 
-### [Overijssel.internal](/_internal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~NetherlandsOverijssel.internal.md) 
+### [Overijssel.public](/_public/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Overijssel.public.md) 
 
-### [Overijssel.protect](/_protect/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~NetherlandsOverijssel.protect.md) 
+### [Overijssel.internal](/_internal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Overijssel.internal.md) 
 
-### [Overijssel.private](/_private/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~NetherlandsOverijssel.private.md) 
+### [Overijssel.protect](/_protect/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Overijssel.protect.md) 
 
-### [Overijssel.personal](/_personal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~NetherlandsOverijssel.personal.md) 
+### [Overijssel.private](/_private/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Overijssel.private.md) 
 
-### [Overijssel.secret](/_secret/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~NetherlandsOverijssel.secret.md)
+### [Overijssel.personal](/_personal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Overijssel.personal.md) 
+
+### [Overijssel.secret](/_secret/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Overijssel.secret.md)
 

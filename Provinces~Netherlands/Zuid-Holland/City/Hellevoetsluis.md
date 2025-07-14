@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hellevoetsluis.public](/_public/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zuid-Holland\CityHellevoetsluis.public.md) 
+### [Hellevoetsluis](/_Standards/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Zuid-Holland/City/Hellevoetsluis.md) 
 
-### [Hellevoetsluis.internal](/_internal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zuid-Holland\CityHellevoetsluis.internal.md) 
+### [Hellevoetsluis.public](/_public/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Zuid-Holland/City/Hellevoetsluis.public.md) 
 
-### [Hellevoetsluis.protect](/_protect/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zuid-Holland\CityHellevoetsluis.protect.md) 
+### [Hellevoetsluis.internal](/_internal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Zuid-Holland/City/Hellevoetsluis.internal.md) 
 
-### [Hellevoetsluis.private](/_private/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zuid-Holland\CityHellevoetsluis.private.md) 
+### [Hellevoetsluis.protect](/_protect/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Zuid-Holland/City/Hellevoetsluis.protect.md) 
 
-### [Hellevoetsluis.personal](/_personal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zuid-Holland\CityHellevoetsluis.personal.md) 
+### [Hellevoetsluis.private](/_private/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Zuid-Holland/City/Hellevoetsluis.private.md) 
 
-### [Hellevoetsluis.secret](/_secret/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~Netherlands\Zuid-Holland\CityHellevoetsluis.secret.md)
+### [Hellevoetsluis.personal](/_personal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Zuid-Holland/City/Hellevoetsluis.personal.md) 
+
+### [Hellevoetsluis.secret](/_secret/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Zuid-Holland/City/Hellevoetsluis.secret.md)
 

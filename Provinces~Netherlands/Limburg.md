@@ -41,15 +41,17 @@ markerFolder: ./Limburg/
 
 ## Confidential Links & Embeds: 
 
-### [Limburg.public](/_public/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~NetherlandsLimburg.public.md) 
+### [Limburg](/_Standards/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Limburg.md) 
 
-### [Limburg.internal](/_internal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~NetherlandsLimburg.internal.md) 
+### [Limburg.public](/_public/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Limburg.public.md) 
 
-### [Limburg.protect](/_protect/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~NetherlandsLimburg.protect.md) 
+### [Limburg.internal](/_internal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Limburg.internal.md) 
 
-### [Limburg.private](/_private/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~NetherlandsLimburg.private.md) 
+### [Limburg.protect](/_protect/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Limburg.protect.md) 
 
-### [Limburg.personal](/_personal/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~NetherlandsLimburg.personal.md) 
+### [Limburg.private](/_private/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Limburg.private.md) 
 
-### [Limburg.secret](/_secret/\Earth\Continent\Europe\Europe~West\Netherlands\Provinces~NetherlandsLimburg.secret.md)
+### [Limburg.personal](/_personal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Limburg.personal.md) 
+
+### [Limburg.secret](/_secret/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Limburg.secret.md)
 
