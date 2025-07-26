@@ -174,6 +174,8 @@ Krugosvet_article: Earth_sciences/geografiya/AMSTERDAM.html
 name: Amstelodami
 ---
 
+# [[Amsterdam]] 
+
 #is_a_/Place  
 #is_a_ :: [[Place]] 
 [has_place_longitude::4.9] 
@@ -194,6 +196,7 @@ defaultZoom: 11
 maxZoom: 18
 ```
 
+#is_/same_as :: [[../../../../../../../../WikiData/WD~Amsterdam,727|WD~Amsterdam,727]] 
 
 ## Confidential Links & Embeds: 
 
