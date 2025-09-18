@@ -32,7 +32,7 @@ expiryDate:
 ```leaflet
 id: Zuid-Holland
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Zuid-Holland/
 markerFolder: ./Zuid-Holland/

@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Zeeland
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Zeeland/
 markerFolder: ./Zeeland/

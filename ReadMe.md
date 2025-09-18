@@ -109,7 +109,7 @@ Sub-region_Name ::  [[Western Europe]]
 ```leaflet
 id: Netherlands
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: .//
 markerFolder: ./
