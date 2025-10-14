@@ -21,7 +21,7 @@ has_place_province::
 has_place_country:: [[Netherlands]]  
 [StateId::] 
 [Population::] 
-[Unknown::] 
+
 
 
 ```leaflet
