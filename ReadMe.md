@@ -121,7 +121,7 @@ markerFolder: ./
 [Area-Land::33920] 
 Continent :: [[Europe]]  
 [VehicleCode::NL] 
-Capital :: [[Amsterdam]]  
+Capital :: [[Provinces~Netherlands/Noord-Holland/counties~Noord-Holland/Amsterdam]]  
 ![[Royal_coat_of_arms_of_the_Netherlands.svg|650]] 
 
 ![[Anthem-Netherlands.mp3]] 
