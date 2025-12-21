@@ -1,16 +1,19 @@
 ---
-location: [52.25,5.23] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Laren
+location:
+  - 52.25
+  - 5.23
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 31852
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

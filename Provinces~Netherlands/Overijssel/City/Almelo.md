@@ -1,16 +1,19 @@
 ---
-location: [52.37,6.63] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Almelo
+location:
+  - 52.37
+  - 6.63
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 28752
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

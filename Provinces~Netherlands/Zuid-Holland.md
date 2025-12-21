@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Zuid-Holland
+  - South Holland
 location:
   - 52
   - 4.4
@@ -12,19 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Zuid-Holland
-  - South Holland
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Zuid-Holland

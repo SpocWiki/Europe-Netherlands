@@ -1,15 +1,17 @@
 ---
 aliases:
   - history of the Netherlands
+  - History_of_the_Netherlands
+  - History of the Netherlands
 has_id_wikidata: Q238533
-described_by_source: "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-part_of: "[[_Standards/WikiData/WD~history_of_the_Low_Countries,6460693]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_History_of_the_Netherlands,13382825]]"
-instance_of: "[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]"
-subclass_of: "[[_Standards/WikiData/WD~history_of_Europe,7787]]"
-facet_of: "[[_Standards/WikiData/WD~Netherlands,55]]"
-country: "[[_Standards/WikiData/WD~Netherlands,55]]"
-Dewey_Decimal_Classification: "949.2"
+described_by_source: '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+part_of: '[[_Standards/WikiData/WD~history_of_the_Low_Countries,6460693]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_History_of_the_Netherlands,13382825]]'
+instance_of: '[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]'
+subclass_of: '[[_Standards/WikiData/WD~history_of_Europe,7787]]'
+facet_of: '[[_Standards/WikiData/WD~Netherlands,55]]'
+country: '[[_Standards/WikiData/WD~Netherlands,55]]'
+Dewey_Decimal_Classification: 949.2
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Joannes%20van%20Deutecum%20-%20Leo%20Belgicus%201650%20-%20published%20by%20Claes%20Jansz%20Visscher%20Amsterdam.jpg
 Commons_category: History of the Netherlands
 ---

@@ -1,16 +1,19 @@
 ---
-location: [52.78,6.12] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Steenwijk
+location:
+  - 52.78
+  - 6.12
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 34541
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

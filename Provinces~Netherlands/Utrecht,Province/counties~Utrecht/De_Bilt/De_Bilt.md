@@ -1,16 +1,20 @@
 ---
-location: [52.1,5.18] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - De_Bilt
+  - De Bilt
+location:
+  - 52.1
+  - 5.18
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 29729
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

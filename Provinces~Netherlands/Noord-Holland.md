@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Noord-Holland
+  - North Holland
 location:
   - 52.6
   - 4.9
@@ -12,19 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Noord-Holland
-  - North Holland
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Noord-Holland

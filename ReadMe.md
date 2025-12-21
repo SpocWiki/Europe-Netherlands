@@ -1,4 +1,16 @@
 ---
+aliases:
+  - Netherlands
+  - Países Bajos
+  - Pays-Bas
+  - هولندا
+  - 荷兰
+  - Нидерланды
+  - the Kingdom of the Netherlands
+  - Netherlands (the)
+  - el Reino de los Países Bajos
+  - Países Bajos (los)
+  - ReadMe
 location:
   - 51.9757
   - 5.08828
@@ -15,23 +27,12 @@ cssclasses:
   - Country
 publish: true
 title: Netherlands
-linkTitle:
-keywords:
-layout:
+linkTitle: ''
+keywords: ''
+layout: ''
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Netherlands
-  - Países Bajos
-  - Pays-Bas
-  - هولندا
-  - 荷兰
-  - Нидерланды
-  - the Kingdom of the Netherlands
-  - Netherlands (the)
-  - el Reino de los Países Bajos
-  - Países Bajos (los)
+publishDate: ''
+expiryDate: ''
 Languages:
   - nl-NL
   - fy-NL

@@ -1,16 +1,19 @@
 ---
-location: [52.1,4.6] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Hazerswoude
+location:
+  - 52.1
+  - 4.6
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 30822
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

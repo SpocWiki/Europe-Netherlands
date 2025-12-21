@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Noord-Brabant
+  - North Brabant
 location:
   - 51.5
   - 5
@@ -12,19 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Noord-Brabant
-  - North Brabant
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Noord-Brabant

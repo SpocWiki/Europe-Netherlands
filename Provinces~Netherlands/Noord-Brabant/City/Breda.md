@@ -1,16 +1,19 @@
 ---
-location: [51.58,4.78] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Breda
+location:
+  - 51.58
+  - 4.78
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 29328
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

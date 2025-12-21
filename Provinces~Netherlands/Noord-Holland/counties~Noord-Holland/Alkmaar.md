@@ -1,16 +1,19 @@
 ---
-location: [52.62,4.74] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Alkmaar
+location:
+  - 52.62
+  - 4.74
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 28742
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

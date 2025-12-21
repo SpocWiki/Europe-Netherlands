@@ -1,16 +1,19 @@
 ---
-location: [51.5,3.88] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Goes
+location:
+  - 51.5
+  - 3.88
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 30489
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

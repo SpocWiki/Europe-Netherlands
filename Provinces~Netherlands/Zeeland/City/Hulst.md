@@ -1,16 +1,19 @@
 ---
-location: [51.28,4.05] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Hulst
+location:
+  - 51.28
+  - 4.05
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 31055
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 
