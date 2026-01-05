@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1300-01-01 
 aliases:
   - Amsteldam
   - Amsterdam
