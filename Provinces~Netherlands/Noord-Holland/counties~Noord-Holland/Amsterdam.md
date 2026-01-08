@@ -193,7 +193,7 @@ name: Amstelodami
 is_a_ = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
-[name::Amsterdam] 
+[has_/name::Amsterdam] 
 State ::  
 Country :: [[Netherlands]]  
 [StateId::] 
