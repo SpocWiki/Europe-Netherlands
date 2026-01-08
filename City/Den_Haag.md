@@ -2,7 +2,7 @@
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 4
 dv_has_place_latitude: 52.1
-dv_name: Den Haag
+dv_has_name_: Den Haag
 dv_is_:
   same_as: "[[../../../../../../WikiData/WD~The_Hague,36600|WD~The_Hague,36600]]"
 dv_is_same_as: "[[../../../../../../WikiData/WD~The_Hague,36600|WD~The_Hague,36600]]"

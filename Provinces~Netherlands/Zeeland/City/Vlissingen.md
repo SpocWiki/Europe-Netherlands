@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 3.6
 dv_has_place_latitude: 51.45
-dv_name: Vlissingen
+dv_has_name_: Vlissingen
 dv_Country: "[[../../../../Netherlands]]"
 ---
 #is_a_/Place  

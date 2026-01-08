@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 4.62
 dv_has_place_latitude: 52.97
-dv_name: Willemsaard
+dv_has_name_: Willemsaard
 dv_Country: "[[../../Netherlands]]"
 ---
 #is_a_/Place  

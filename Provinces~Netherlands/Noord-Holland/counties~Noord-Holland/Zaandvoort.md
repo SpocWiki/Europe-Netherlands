@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 4.53
 dv_has_place_latitude: 52.37
-dv_name: Zaandvoort
+dv_has_name_: Zaandvoort
 dv_Country: "[[../../../../Netherlands]]"
 ---
 #is_a_/Place  

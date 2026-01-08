@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 4.4
 dv_has_place_latitude: 51.92
-dv_name: Schiedam
+dv_has_name_: Schiedam
 dv_Country: "[[../../../../Netherlands]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 6.07
 dv_has_place_latitude: 52.47
-dv_name: Workum
+dv_has_name_: Workum
 dv_Country: "[[../../../../Netherlands]]"
 ---
 #is_a_/Place  

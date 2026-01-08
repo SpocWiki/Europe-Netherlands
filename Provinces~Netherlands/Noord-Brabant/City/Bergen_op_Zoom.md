@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 4.28
 dv_has_place_latitude: 51.5
-dv_name: Bergen op Zoom
+dv_has_name_: Bergen op Zoom
 dv_Country: "[[../../../../Netherlands]]"
 ---
 #is_a_/Place  

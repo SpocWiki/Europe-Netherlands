@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 4.72
 dv_has_place_latitude: 52.02
-dv_name: Gouda
+dv_has_name_: Gouda
 dv_Country: "[[../../../../Netherlands]]"
 ---
 #is_a_/Place  

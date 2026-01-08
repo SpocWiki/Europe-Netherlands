@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 4.65
 dv_has_place_latitude: 52.47
-dv_name: Velzen
+dv_has_name_: Velzen
 dv_Country: "[[../../../../Netherlands]]"
 ---
 #is_a_/Place  

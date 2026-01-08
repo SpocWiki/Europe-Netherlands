@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 4.6
 dv_has_place_latitude: 52.1
-dv_name: Hazerswoude
+dv_has_name_: Hazerswoude
 dv_Country: "[[../../../../Netherlands]]"
 ---
 #is_a_/Place  

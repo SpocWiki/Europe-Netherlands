@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 5.13
 dv_has_place_latitude: 51.98
-dv_name: Vianen
+dv_has_name_: Vianen
 dv_Country: "[[../../../../Netherlands]]"
 ---
 #is_a_/Place  

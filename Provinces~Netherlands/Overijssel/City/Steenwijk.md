@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 6.12
 dv_has_place_latitude: 52.78
-dv_name: Steenwijk
+dv_has_name_: Steenwijk
 dv_Country: "[[../../../../Netherlands]]"
 ---
 #is_a_/Place  

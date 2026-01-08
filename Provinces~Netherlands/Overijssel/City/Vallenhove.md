@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 5.95
 dv_has_place_latitude: 52.68
-dv_name: Vallenhove
+dv_has_name_: Vallenhove
 dv_Country: "[[../../../../Netherlands]]"
 ---
 #is_a_/Place  

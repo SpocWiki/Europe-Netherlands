@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 4.67
 dv_has_place_latitude: 51.47
-dv_name: Zundert
+dv_has_name_: Zundert
 dv_Country: "[[../../../../Netherlands]]"
 ---
 #is_a_/Place  

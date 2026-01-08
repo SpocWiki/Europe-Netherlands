@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 4.13
 dv_has_place_latitude: 51.82
-dv_name: Hellevoetsluis
+dv_has_name_: Hellevoetsluis
 dv_Country: "[[../../../../Netherlands]]"
 ---
 #is_a_/Place  

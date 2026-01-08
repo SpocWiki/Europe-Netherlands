@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 4.05
 dv_has_place_latitude: 51.28
-dv_name: Hulst
+dv_has_name_: Hulst
 dv_Country: "[[../../../../Netherlands]]"
 ---
 #is_a_/Place  

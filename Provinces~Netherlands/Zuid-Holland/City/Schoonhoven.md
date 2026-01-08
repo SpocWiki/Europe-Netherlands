@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 4.85
 dv_has_place_latitude: 51.95
-dv_name: Schoonhoven
+dv_has_name_: Schoonhoven
 dv_Country: "[[../../../../Netherlands]]"
 ---
 #is_a_/Place  

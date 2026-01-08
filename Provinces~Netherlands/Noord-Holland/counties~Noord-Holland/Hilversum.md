@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 5.18
 dv_has_place_latitude: 52.22
-dv_name: Hilversum
+dv_has_name_: Hilversum
 dv_Country: "[[../../../../Netherlands]]"
 ---
 #is_a_/Place  

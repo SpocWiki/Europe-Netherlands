@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 3.67
 dv_has_place_latitude: 51.55
-dv_name: Veere
+dv_has_name_: Veere
 dv_Country: "[[../../../../Netherlands]]"
 ---
 #is_a_/Place  

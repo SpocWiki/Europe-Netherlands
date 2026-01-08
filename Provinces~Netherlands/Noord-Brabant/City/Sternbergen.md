@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 4.32
 dv_has_place_latitude: 51.58
-dv_name: Sternbergen
+dv_has_name_: Sternbergen
 dv_Country: "[[../../../../Netherlands]]"
 ---
 #is_a_/Place  

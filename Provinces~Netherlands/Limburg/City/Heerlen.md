@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 5.98
 dv_has_place_latitude: 50.88
-dv_name: Heerlen
+dv_has_name_: Heerlen
 dv_Country: "[[../../../../Netherlands]]"
 ---
 #is_a_/Place  

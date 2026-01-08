@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 6.57
 dv_has_place_latitude: 53.22
-dv_name: Groningen
+dv_has_name_: Groningen
 dv_Country: "[[../../../../../Netherlands]]"
 ---
 #is_a_/Place  

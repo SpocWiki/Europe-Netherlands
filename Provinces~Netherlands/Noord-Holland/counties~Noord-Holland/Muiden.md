@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 5.07
 dv_has_place_latitude: 52.33
-dv_name: Muiden
+dv_has_name_: Muiden
 dv_Country: "[[../../../../Netherlands]]"
 ---
 #is_a_/Place  

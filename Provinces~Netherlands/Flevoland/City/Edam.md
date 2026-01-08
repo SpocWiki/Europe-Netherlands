@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 5.43
 dv_has_place_latitude: 52.52
-dv_name: Edam
+dv_has_name_: Edam
 dv_Country: "[[../../../../Netherlands]]"
 ---
 #is_a_/Place  

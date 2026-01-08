@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 6.15
 dv_has_place_latitude: 52.25
-dv_name: Deventer
+dv_has_name_: Deventer
 dv_Country: "[[../../../../Netherlands]]"
 ---
 #is_a_/Place  

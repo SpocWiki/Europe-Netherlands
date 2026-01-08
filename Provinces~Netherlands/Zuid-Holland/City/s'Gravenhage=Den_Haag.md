@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 4.32
 dv_has_place_latitude: 52.08
-dv_name: s'Gravenhage=Den Haag
+dv_has_name_: s'Gravenhage=Den Haag
 dv_Country: "[[../../../../Netherlands]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 5.23
 dv_has_place_latitude: 51.97
-dv_name: Kuilenburg
+dv_has_name_: Kuilenburg
 dv_Country: "[[../../../../Netherlands]]"
 ---
 #is_a_/Place  

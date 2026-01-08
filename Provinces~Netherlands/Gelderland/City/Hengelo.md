@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 6.3
 dv_has_place_latitude: 52.05
-dv_name: Hengelo
+dv_has_name_: Hengelo
 dv_Country: "[[../../../../Netherlands]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 5.85
 dv_has_place_latitude: 53.05
-dv_name: Akkrum
+dv_has_name_: Akkrum
 dv_Country: "[[../../../../Netherlands]]"
 ---
 #is_a_/Place  

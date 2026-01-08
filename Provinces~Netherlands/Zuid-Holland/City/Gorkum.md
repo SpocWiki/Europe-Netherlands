@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 4.97
 dv_has_place_latitude: 51.83
-dv_name: Gorkum
+dv_has_name_: Gorkum
 dv_Country: "[[../../../../Netherlands]]"
 ---
 #is_a_/Place  

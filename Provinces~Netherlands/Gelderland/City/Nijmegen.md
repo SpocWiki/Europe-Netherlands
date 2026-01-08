@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 5.85
 dv_has_place_latitude: 51.85
-dv_name: Nijmegen
+dv_has_name_: Nijmegen
 dv_Country: "[[../../../../Netherlands]]"
 ---
 #is_a_/Place  
