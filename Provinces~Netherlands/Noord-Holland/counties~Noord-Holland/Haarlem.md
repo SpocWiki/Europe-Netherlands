@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 30685
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 4.63
+dv_has_place_latitude: 52.38
+dv_name: Haarlem
+dv_Country: "[[../../../../Netherlands]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::4.63] 
-[has_place_latitude::52.38] 
-[name::Haarlem] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Netherlands]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Haarlem](/_Standards/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Noord-Holland/City/Haarlem.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Noord-Holland/counties~Noord-Holland/Haarlem|Haarlem]] 
 
-### [Haarlem.public](/_public/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Noord-Holland/City/Haarlem.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Noord-Holland/counties~Noord-Holland/Haarlem.public|Haarlem.public]] 
 
-### [Haarlem.internal](/_internal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Noord-Holland/City/Haarlem.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Noord-Holland/counties~Noord-Holland/Haarlem.internal|Haarlem.internal]] 
 
-### [Haarlem.protect](/_protect/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Noord-Holland/City/Haarlem.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Noord-Holland/counties~Noord-Holland/Haarlem.protect|Haarlem.protect]] 
 
-### [Haarlem.private](/_private/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Noord-Holland/City/Haarlem.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Noord-Holland/counties~Noord-Holland/Haarlem.private|Haarlem.private]] 
 
-### [Haarlem.personal](/_personal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Noord-Holland/City/Haarlem.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Noord-Holland/counties~Noord-Holland/Haarlem.personal|Haarlem.personal]] 
 
-### [Haarlem.secret](/_secret/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Noord-Holland/City/Haarlem.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Noord-Holland/counties~Noord-Holland/Haarlem.secret|Haarlem.secret]] 
 

@@ -1,4 +1,13 @@
-﻿---
+---
+dv_"Concept", "Amsterdam: z32pv"
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 4.9
+dv_has_place_latitude: 52.36
+dv_is_:
+  same_as: "[[../../../../../../../../WikiData/WD~Amsterdam,727|WD~Amsterdam,727]]"
+dv_concept-amsterdam: z32pv"
+dv_is_same_as: "[[../../../../../../../../WikiData/WD~Amsterdam,727|WD~Amsterdam,727]]"
+
 has_time_started: 1300-01-01 
 aliases:
   - Amsteldam
@@ -159,7 +168,7 @@ BHCL_UUID:
   - f98f7dca-ab4c-45bd-9e28-cac7b46e0a5f
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Logo%20of%20Gemeente%20Amsterdam.svg
 aerial_view: http://commons.wikimedia.org/wiki/Special:FilePath/Imagen%20de%20los%20canales%20conc%C3%A9ntricos%20en%20%C3%81msterdam.png
-Wolfram_Language_entity_code: Entity["Concept", "Amsterdam::z32pv"]
+Wolfram_Language_entity_code: Entity"Concept", "Amsterdam = `=this.dv_"Concept", "Amsterdam`
 inception: 1300-01-01T00:00:00Z
 coordinate_location: Point(4.883333333 52.366666666)
 detail_map: http://commons.wikimedia.org/wiki/Special:FilePath/Amsterdam-topografie.jpg
@@ -181,15 +190,15 @@ name: Amstelodami
 # [[Amsterdam]] 
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::4.9] 
-[has_place_latitude::52.36] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
 [name::Amsterdam] 
 State ::  
 Country :: [[Netherlands]]  
 [StateId::] 
 [Population::] 
-#is_/same_as :: [[../../../../../../../../WikiData/WD~Amsterdam,727|WD~Amsterdam,727]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -221,21 +230,19 @@ maxZoom: 18
 > [Wikipedia](https://en.wikipedia.org/wiki/Amsterdam) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Amsterdam](/_Standards/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Noord-Holland/City/Amsterdam.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Noord-Holland/counties~Noord-Holland/Amsterdam|Amsterdam]] 
 
-### [Amsterdam.public](/_public/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Noord-Holland/City/Amsterdam.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Noord-Holland/counties~Noord-Holland/Amsterdam.public|Amsterdam.public]] 
 
-### [Amsterdam.internal](/_internal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Noord-Holland/City/Amsterdam.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Noord-Holland/counties~Noord-Holland/Amsterdam.internal|Amsterdam.internal]] 
 
-### [Amsterdam.protect](/_protect/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Noord-Holland/City/Amsterdam.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Noord-Holland/counties~Noord-Holland/Amsterdam.protect|Amsterdam.protect]] 
 
-### [Amsterdam.private](/_private/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Noord-Holland/City/Amsterdam.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Noord-Holland/counties~Noord-Holland/Amsterdam.private|Amsterdam.private]] 
 
-### [Amsterdam.personal](/_personal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Noord-Holland/City/Amsterdam.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Noord-Holland/counties~Noord-Holland/Amsterdam.personal|Amsterdam.personal]] 
 
-### [Amsterdam.secret](/_secret/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Noord-Holland/City/Amsterdam.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Noord-Holland/counties~Noord-Holland/Amsterdam.secret|Amsterdam.secret]] 
 

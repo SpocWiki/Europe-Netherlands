@@ -40,17 +40,17 @@ markerFolder: ./Flevoland/
 
 ## Confidential Links & Embeds: 
 
-### [Flevoland](/_Standards/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Flevoland.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Flevoland|Flevoland]] 
 
-### [Flevoland.public](/_public/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Flevoland.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Flevoland.public|Flevoland.public]] 
 
-### [Flevoland.internal](/_internal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Flevoland.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Flevoland.internal|Flevoland.internal]] 
 
-### [Flevoland.protect](/_protect/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Flevoland.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Flevoland.protect|Flevoland.protect]] 
 
-### [Flevoland.private](/_private/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Flevoland.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Flevoland.private|Flevoland.private]] 
 
-### [Flevoland.personal](/_personal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Flevoland.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Flevoland.personal|Flevoland.personal]] 
 
-### [Flevoland.secret](/_secret/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Flevoland.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Flevoland.secret|Flevoland.secret]] 
 

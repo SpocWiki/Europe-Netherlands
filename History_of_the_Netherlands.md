@@ -4,21 +4,24 @@ aliases:
   - History_of_the_Netherlands
   - History of the Netherlands
 has_id_wikidata: Q238533
-described_by_source: '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-part_of: '[[_Standards/WikiData/WD~history_of_the_Low_Countries,6460693]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_History_of_the_Netherlands,13382825]]'
-instance_of: '[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]'
-subclass_of: '[[_Standards/WikiData/WD~history_of_Europe,7787]]'
-facet_of: '[[_Standards/WikiData/WD~Netherlands,55]]'
-country: '[[_Standards/WikiData/WD~Netherlands,55]]'
+described_by_source: "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+part_of: "[[_Standards/WikiData/WD~history_of_the_Low_Countries,6460693]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_History_of_the_Netherlands,13382825]]"
+instance_of: "[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]"
+subclass_of: "[[_Standards/WikiData/WD~history_of_Europe,7787]]"
+facet_of: "[[_Standards/WikiData/WD~Netherlands,55]]"
+country: "[[_Standards/WikiData/WD~Netherlands,55]]"
 Dewey_Decimal_Classification: 949.2
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Joannes%20van%20Deutecum%20-%20Leo%20Belgicus%201650%20-%20published%20by%20Claes%20Jansz%20Visscher%20Amsterdam.jpg
 Commons_category: History of the Netherlands
+dv_is_:
+  same_as: "[[../../../../../WikiData/WD~History_of_the_Netherlands,238533|WD~History_of_the_Netherlands,238533]]"
+dv_is_same_as: "[[../../../../../WikiData/WD~History_of_the_Netherlands,238533|WD~History_of_the_Netherlands,238533]]"
 ---
 
 # [[History_of_the_Netherlands]] 
 
-#is_/same_as :: [[../../../../../WikiData/WD~History_of_the_Netherlands,238533|WD~History_of_the_Netherlands,238533]]  
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -119,4 +122,21 @@ Commons_category: History of the Netherlands
 > The four countries adopted the euro on 1 January 2002, along with eight other EU member states.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20the%20Netherlands) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/Netherlands/History_of_the_Netherlands|History_of_the_Netherlands]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/Netherlands/History_of_the_Netherlands.public|History_of_the_Netherlands.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/Netherlands/History_of_the_Netherlands.internal|History_of_the_Netherlands.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/Netherlands/History_of_the_Netherlands.protect|History_of_the_Netherlands.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/Netherlands/History_of_the_Netherlands.private|History_of_the_Netherlands.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/Netherlands/History_of_the_Netherlands.personal|History_of_the_Netherlands.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/Netherlands/History_of_the_Netherlands.secret|History_of_the_Netherlands.secret]] 
 

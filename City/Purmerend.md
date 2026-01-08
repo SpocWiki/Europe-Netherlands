@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33553
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 4.95
+dv_has_place_latitude: 53.52
+dv_name: Purmerend
+dv_Country: "[[../../Netherlands]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::4.95] 
-[has_place_latitude::53.52] 
-[name::Purmerend] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Netherlands]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Purmerend](/_Standards/Earth/Continent/Europe/Europe~West/Netherlands/City/Purmerend.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/Netherlands/City/Purmerend|Purmerend]] 
 
-### [Purmerend.public](/_public/Earth/Continent/Europe/Europe~West/Netherlands/City/Purmerend.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/Netherlands/City/Purmerend.public|Purmerend.public]] 
 
-### [Purmerend.internal](/_internal/Earth/Continent/Europe/Europe~West/Netherlands/City/Purmerend.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/Netherlands/City/Purmerend.internal|Purmerend.internal]] 
 
-### [Purmerend.protect](/_protect/Earth/Continent/Europe/Europe~West/Netherlands/City/Purmerend.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/Netherlands/City/Purmerend.protect|Purmerend.protect]] 
 
-### [Purmerend.private](/_private/Earth/Continent/Europe/Europe~West/Netherlands/City/Purmerend.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/Netherlands/City/Purmerend.private|Purmerend.private]] 
 
-### [Purmerend.personal](/_personal/Earth/Continent/Europe/Europe~West/Netherlands/City/Purmerend.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/Netherlands/City/Purmerend.personal|Purmerend.personal]] 
 
-### [Purmerend.secret](/_secret/Earth/Continent/Europe/Europe~West/Netherlands/City/Purmerend.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/Netherlands/City/Purmerend.secret|Purmerend.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35618
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 4.62
+dv_has_place_latitude: 52.97
+dv_name: Willemsaard
+dv_Country: "[[../../Netherlands]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::4.62] 
-[has_place_latitude::52.97] 
-[name::Willemsaard] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Netherlands]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Willemsaard](/_Standards/Earth/Continent/Europe/Europe~West/Netherlands/City/Willemsaard.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/Netherlands/City/Willemsaard|Willemsaard]] 
 
-### [Willemsaard.public](/_public/Earth/Continent/Europe/Europe~West/Netherlands/City/Willemsaard.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/Netherlands/City/Willemsaard.public|Willemsaard.public]] 
 
-### [Willemsaard.internal](/_internal/Earth/Continent/Europe/Europe~West/Netherlands/City/Willemsaard.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/Netherlands/City/Willemsaard.internal|Willemsaard.internal]] 
 
-### [Willemsaard.protect](/_protect/Earth/Continent/Europe/Europe~West/Netherlands/City/Willemsaard.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/Netherlands/City/Willemsaard.protect|Willemsaard.protect]] 
 
-### [Willemsaard.private](/_private/Earth/Continent/Europe/Europe~West/Netherlands/City/Willemsaard.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/Netherlands/City/Willemsaard.private|Willemsaard.private]] 
 
-### [Willemsaard.personal](/_personal/Earth/Continent/Europe/Europe~West/Netherlands/City/Willemsaard.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/Netherlands/City/Willemsaard.personal|Willemsaard.personal]] 
 
-### [Willemsaard.secret](/_secret/Earth/Continent/Europe/Europe~West/Netherlands/City/Willemsaard.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/Netherlands/City/Willemsaard.secret|Willemsaard.secret]] 
 

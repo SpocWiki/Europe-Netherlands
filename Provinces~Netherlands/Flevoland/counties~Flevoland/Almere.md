@@ -27,17 +27,17 @@
 
 ## Confidential Links & Embeds: 
 
-### [Almere](/_Standards/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Flevoland/counties~Flevoland/Almere.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Flevoland/counties~Flevoland/Almere|Almere]] 
 
-### [Almere.public](/_public/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Flevoland/counties~Flevoland/Almere.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Flevoland/counties~Flevoland/Almere.public|Almere.public]] 
 
-### [Almere.internal](/_internal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Flevoland/counties~Flevoland/Almere.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Flevoland/counties~Flevoland/Almere.internal|Almere.internal]] 
 
-### [Almere.protect](/_protect/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Flevoland/counties~Flevoland/Almere.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Flevoland/counties~Flevoland/Almere.protect|Almere.protect]] 
 
-### [Almere.private](/_private/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Flevoland/counties~Flevoland/Almere.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Flevoland/counties~Flevoland/Almere.private|Almere.private]] 
 
-### [Almere.personal](/_personal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Flevoland/counties~Flevoland/Almere.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Flevoland/counties~Flevoland/Almere.personal|Almere.personal]] 
 
-### [Almere.secret](/_secret/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Flevoland/counties~Flevoland/Almere.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Flevoland/counties~Flevoland/Almere.secret|Almere.secret]] 
 

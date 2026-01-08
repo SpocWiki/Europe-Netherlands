@@ -1,4 +1,10 @@
-﻿---
+---
+dv_"Museum", "RikasRoadhouseAndLanding: 8835c"
+dv_is_:
+  same_as: "[[../../../../../../../../../WikiData/WD~Rijksmuseum,190804|WD~Rijksmuseum,190804]]"
+dv_museum-rikasroadhouseandlanding: 8835c"
+dv_is_same_as: "[[../../../../../../../../../WikiData/WD~Rijksmuseum,190804|WD~Rijksmuseum,190804]]"
+
 has_time_started: 1800-01-01 
 aliases:
 has_id_wikidata: Q190804
@@ -154,13 +160,13 @@ phone_number: +31-20-674-7352
 postal_code: 1071XX
 IPv6_routing_prefix: 2001:610:328::/48
 EU_Participant_Identification_Code: "972514435"
-Wolfram_Language_entity_code: Entity["Museum", "RikasRoadhouseAndLanding::8835c"]
+Wolfram_Language_entity_code: Entity"Museum", "RikasRoadhouseAndLanding = `=this.dv_"Museum", "RikasRoadhouseAndLanding`
 Krugosvet_article_archived_: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/REKSMUZEUM.html
 ---
 
 # [[Rijksmuseum]] 
 
-#is_/same_as :: [[../../../../../../../../../WikiData/WD~Rijksmuseum,190804|WD~Rijksmuseum,190804]]  
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -190,4 +196,21 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/REKS
 > The museum also has a small Asian collection, which is on display in the Asian pavilion.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Rijksmuseum) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Noord-Holland/counties~Noord-Holland/Amsterdam/Rijksmuseum|Rijksmuseum]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Noord-Holland/counties~Noord-Holland/Amsterdam/Rijksmuseum.public|Rijksmuseum.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Noord-Holland/counties~Noord-Holland/Amsterdam/Rijksmuseum.internal|Rijksmuseum.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Noord-Holland/counties~Noord-Holland/Amsterdam/Rijksmuseum.protect|Rijksmuseum.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Noord-Holland/counties~Noord-Holland/Amsterdam/Rijksmuseum.private|Rijksmuseum.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Noord-Holland/counties~Noord-Holland/Amsterdam/Rijksmuseum.personal|Rijksmuseum.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Noord-Holland/counties~Noord-Holland/Amsterdam/Rijksmuseum.secret|Rijksmuseum.secret]] 
 

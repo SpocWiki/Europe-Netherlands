@@ -27,85 +27,149 @@ cssclasses:
   - Country
 publish: true
 title: Netherlands
-linkTitle: ''
-keywords: ''
-layout: ''
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate: ''
-expiryDate: ''
+publishDate: ""
+expiryDate: ""
 Languages:
   - nl-NL
   - fy-NL
+dv_ISO4217-currency_alphabetic: EUR
+dv_ISO4217-currency_name: Euro
+dv_ISO4217-currency_numeric: 978
+dv_ISO4217-currency_minor_unit: 2
+dv_ISO4217-currency_country_name: NETHERLANDS
+dv_Telephone: 31
+dv_Global: true
+dv_Global_Name: World
+dv_name: Netherlands
+dv_name-en:
+  - Netherlands
+  - Netherlands
+dv_name-es: Países Bajos
+dv_name-fr: Pays-Bas
+dv_name-cn: 荷兰
+dv_name-ar: هولندا
+dv_name-ru: Нидерланды
+dv_CLDR_display_name: Netherlands
+dv_UNTERM_English: Netherlands (the)
+dv_UNTERM_English_Formal: the Kingdom of the Netherlands
+dv_UNTERM_Spanish_Formal: el Reino de los Países Bajos
+dv_UNTERM_Spanish: Países Bajos (los)
+dv_UNTERM_French: Pays-Bas (les)
+dv_UNTERM_Arabic: هولندا
+dv_UNTERM_Arabic_Formal: مملكة هولندا
+dv_UNTERM_Chinese: 荷兰
+dv_UNTERM_Chinese_Formal: 荷兰王国
+dv_UNTERM_French_Formal: le Royaume des Pays-Bas
+dv_UNTERM_Russian: Нидерланды
+dv_UNTERM_Russian_Formal: Королевство Нидерландов
+dv_Region_Name: "[[../../../Europe]]"
+dv_Intermediate_Region_Name: "[[ReadMe]]"
+dv_Sub-region_Name: "[[Western Europe]]"
+dv_Region: 150
+dv_Sub-region: 155
+dv_Geoname-ID: 2750405
+dv_FIPS: NL
+dv_FIFA: NED
+dv_IOC: NED
+dv_MARC: ne
+dv_GAUL: 177
+dv_WMO: NL
+dv_ITU: HOL
+dv_DS: NL
+dv_TLD: .nl
+dv_EDGAR: P7
+dv_M49: 528
+dv_is_independent: Yes
+dv_Developed_:
+  Developing_Countries: Developed
+dv_ISO3166-1-numeric: 528
+dv_ISO2: NL
+dv_ISO3: NLD
+dv_name-de: Niederlande
+dv_Area-Total: 41865
+dv_Area-Land: 33920
+dv_Continent: "[[../../../Europe]]"
+dv_VehicleCode: NL
+dv_Capital: "[[Provinces~Netherlands/Noord-Holland/counties~Noord-Holland/Amsterdam]]"
+dv_Alcohol-l: 10.1
+dv_is_a_: "[[../../../../Geography/Place]]"
+dv_has_place_longitude: 5.08828
+dv_has_place_latitude: 51.9757
+dv_developed_developing_countries: Developed
 ---
 
 
-[	ISO4217-currency_alphabetic	 :: EUR ] 
-[	ISO4217-currency_name	 :: Euro ] 
-[	ISO4217-currency_numeric	 :: 978 ] 
-[	ISO4217-currency_minor_unit	 :: 2 ] 
-[	ISO4217-currency_country_name	 :: NETHERLANDS ] 
+ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic` 
+ISO4217-currency_name = `=this.dv_ISO4217-currency_name` 
+ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric` 
+ISO4217-currency_minor_unit = `=this.dv_ISO4217-currency_minor_unit` 
+ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name` 
 
-[	Telephone	 :: 31 ] 
+Telephone = `=this.dv_Telephone` 
 
-[	Global	 :: True ] 
-[	Global_Name	 :: World ] 
+Global = `=this.dv_Global` 
+Global_Name = `=this.dv_Global_Name` 
 
-[	name	 :: Netherlands ] 
+name = `=this.dv_name` 
 [	name-en	 :: Netherlands ] 
-[	name-es	 :: Países Bajos ] 
-[	name-fr	 :: Pays-Bas ] 
-[	name-cn	 :: 荷兰 ] 
-[	name-ar	 :: هولندا ] 
-[	name-ru	 :: Нидерланды ] 
+name-es = `=this.dv_name-es` 
+name-fr = `=this.dv_name-fr` 
+name-cn = `=this.dv_name-cn` 
+name-ar = `=this.dv_name-ar` 
+name-ru = `=this.dv_name-ru` 
 
-[	CLDR_display_name	 :: Netherlands ] 
+CLDR_display_name = `=this.dv_CLDR_display_name` 
 
-[	UNTERM_English	 :: Netherlands (the) ] 
-[	UNTERM_English_Formal	 :: the Kingdom of the Netherlands ] 
-[	UNTERM_Spanish_Formal	 :: el Reino de los Países Bajos ] 
-[	UNTERM_Spanish	 :: Países Bajos (los) ] 
-[	UNTERM_French	 :: Pays-Bas (les) ] 
-[	UNTERM_Arabic	 :: هولندا ] 
-[	UNTERM_Arabic_Formal	 :: مملكة هولندا ] 
-[	UNTERM_Chinese	 :: 荷兰 ] 
-[	UNTERM_Chinese_Formal	 :: 荷兰王国 ] 
-[	UNTERM_French_Formal	 :: le Royaume des Pays-Bas ] 
-[	UNTERM_Russian	 :: Нидерланды ] 
-[	UNTERM_Russian_Formal	 :: Королевство Нидерландов ] 
+UNTERM_English = `=this.dv_UNTERM_English` 
+UNTERM_English_Formal = `=this.dv_UNTERM_English_Formal` 
+UNTERM_Spanish_Formal = `=this.dv_UNTERM_Spanish_Formal` 
+UNTERM_Spanish = `=this.dv_UNTERM_Spanish` 
+UNTERM_French = `=this.dv_UNTERM_French` 
+UNTERM_Arabic = `=this.dv_UNTERM_Arabic` 
+UNTERM_Arabic_Formal = `=this.dv_UNTERM_Arabic_Formal` 
+UNTERM_Chinese = `=this.dv_UNTERM_Chinese` 
+UNTERM_Chinese_Formal = `=this.dv_UNTERM_Chinese_Formal` 
+UNTERM_French_Formal = `=this.dv_UNTERM_French_Formal` 
+UNTERM_Russian = `=this.dv_UNTERM_Russian` 
+UNTERM_Russian_Formal = `=this.dv_UNTERM_Russian_Formal` 
 
-Region_Name ::  [[Europe]] 
-Intermediate_Region_Name ::  [[]] 
-Sub-region_Name ::  [[Western Europe]] 
+Region_Name = `=this.dv_Region_Name`
+Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
+Sub-region_Name = `=this.dv_Sub-region_Name`
 
-[	Region	 :: 150 ] 
-[	Intermediate_Region	 ::  ] 
-[	Sub-region	 :: 155 ] 
+Region = `=this.dv_Region` 
+[	Intermediate_Region = `=this.dv_Region`
+Sub-region = `=this.dv_Sub-region` 
 
-[	Geoname-ID	 :: 2750405 ] 
-[	FIPS	 :: NL ] 
-[	FIFA	 :: NED ] 
-[	IOC	 :: NED ] 
-[	MARC	 :: ne ] 
-[	GAUL	 :: 177 ] 
-[	WMO	 :: NL ] 
-[	ITU	 :: HOL ] 
-[	DS	 :: NL ] 
-[	TLD	 :: .nl ] 
-[	EDGAR	 :: P7 ] 
-[	M49	 :: 528 ] 
+Geoname-ID = `=this.dv_Geoname-ID` 
+FIPS = `=this.dv_FIPS` 
+FIFA = `=this.dv_FIFA` 
+IOC = `=this.dv_IOC` 
+MARC = `=this.dv_MARC` 
+GAUL = `=this.dv_GAUL` 
+WMO = `=this.dv_WMO` 
+ITU = `=this.dv_ITU` 
+DS = `=this.dv_DS` 
+TLD = `=this.dv_TLD` 
+EDGAR = `=this.dv_EDGAR` 
+M49 = `=this.dv_M49` 
 
-[	is_independent	 :: Yes ] 
-[	Developed_/Developing_Countries	 :: Developed ] 
+is_independent = `=this.dv_is_independent` 
+developed_developing_countries = `=this.dv_developed_developing_countries` 
 [	Land_Locked_Developing_Countries	 ::  ] 
 [	Least_Developed_Countries	 ::  ] 
-[	Small_Island_Developing_States	 ::  ] 
+[	Small_is_a_ = `=this.dv_is_a_`
 
-[	ISO3166-1-numeric	 :: 528 ] 
+ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric` 
 
 
 
-[ISO2::NL] 
-[ISO3::NLD] 
+ISO2 = `=this.dv_ISO2` 
+ISO3 = `=this.dv_ISO3` 
 
 ```leaflet
 id: Netherlands
@@ -117,39 +181,39 @@ markerFolder: ./
 ```
 
 [name-en::Netherlands] 
-[name-de::Niederlande] 
-[Area-Total::41865] 
-[Area-Land::33920] 
-Continent :: [[Europe]]  
-[VehicleCode::NL] 
-Capital :: [[Provinces~Netherlands/Noord-Holland/counties~Noord-Holland/Amsterdam]]  
+name-de = `=this.dv_name-de` 
+Area-Total = `=this.dv_Area-Total` 
+Area-Land = `=this.dv_Area-Land` 
+Continent = `=this.dv_Continent`
+VehicleCode = `=this.dv_VehicleCode` 
+Capital = `=this.dv_Capital`
 ![[Royal_coat_of_arms_of_the_Netherlands.svg|650]] 
 
 ![[Anthem-Netherlands.mp3]] 
 
 ![[Flag_of_the_Netherlands.svg|350]] 
 
-[Alcohol-l::10.1] 
+Alcohol-l = `=this.dv_Alcohol-l` 
 [Language-Id::] 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::5.08828] 
-[has_place_latitude::51.9757] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
 
 
 ## Confidential Links & Embeds: 
 
-### [ReadMe](/_Standards/Earth/Continent/Europe/Europe~West/Netherlands/ReadMe.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/Netherlands/ReadMe|ReadMe]] 
 
-### [ReadMe.public](/_public/Earth/Continent/Europe/Europe~West/Netherlands/ReadMe.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/Netherlands/ReadMe.public|ReadMe.public]] 
 
-### [ReadMe.internal](/_internal/Earth/Continent/Europe/Europe~West/Netherlands/ReadMe.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/Netherlands/ReadMe.internal|ReadMe.internal]] 
 
-### [ReadMe.protect](/_protect/Earth/Continent/Europe/Europe~West/Netherlands/ReadMe.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/Netherlands/ReadMe.protect|ReadMe.protect]] 
 
-### [ReadMe.private](/_private/Earth/Continent/Europe/Europe~West/Netherlands/ReadMe.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/Netherlands/ReadMe.private|ReadMe.private]] 
 
-### [ReadMe.personal](/_personal/Earth/Continent/Europe/Europe~West/Netherlands/ReadMe.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/Netherlands/ReadMe.personal|ReadMe.personal]] 
 
-### [ReadMe.secret](/_secret/Earth/Continent/Europe/Europe~West/Netherlands/ReadMe.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/Netherlands/ReadMe.secret|ReadMe.secret]] 
 

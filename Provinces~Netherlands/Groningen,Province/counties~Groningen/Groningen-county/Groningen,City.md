@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 30591
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 6.57
+dv_has_place_latitude: 53.22
+dv_name: Groningen
+dv_Country: "[[../../../../../Netherlands]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::6.57] 
-[has_place_latitude::53.22] 
-[name::Groningen] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Netherlands]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Groningen,City](/_Standards/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Groningen,Province/counties~Groningen/Groningen-county/Groningen,City.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Groningen,Province/counties~Groningen/Groningen-county/Groningen,City|Groningen,City]] 
 
-### [Groningen,City.public](/_public/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Groningen,Province/counties~Groningen/Groningen-county/Groningen,City.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Groningen,Province/counties~Groningen/Groningen-county/Groningen,City.public|Groningen,City.public]] 
 
-### [Groningen,City.internal](/_internal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Groningen,Province/counties~Groningen/Groningen-county/Groningen,City.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Groningen,Province/counties~Groningen/Groningen-county/Groningen,City.internal|Groningen,City.internal]] 
 
-### [Groningen,City.protect](/_protect/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Groningen,Province/counties~Groningen/Groningen-county/Groningen,City.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Groningen,Province/counties~Groningen/Groningen-county/Groningen,City.protect|Groningen,City.protect]] 
 
-### [Groningen,City.private](/_private/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Groningen,Province/counties~Groningen/Groningen-county/Groningen,City.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Groningen,Province/counties~Groningen/Groningen-county/Groningen,City.private|Groningen,City.private]] 
 
-### [Groningen,City.personal](/_personal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Groningen,Province/counties~Groningen/Groningen-county/Groningen,City.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Groningen,Province/counties~Groningen/Groningen-county/Groningen,City.personal|Groningen,City.personal]] 
 
-### [Groningen,City.secret](/_secret/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Groningen,Province/counties~Groningen/Groningen-county/Groningen,City.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Groningen,Province/counties~Groningen/Groningen-county/Groningen,City.secret|Groningen,City.secret]] 
 

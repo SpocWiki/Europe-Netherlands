@@ -1,4 +1,12 @@
-﻿---
+---
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 4
+dv_has_place_latitude: 52.1
+dv_name: Den Haag
+dv_is_:
+  same_as: "[[../../../../../../WikiData/WD~The_Hague,36600|WD~The_Hague,36600]]"
+dv_is_same_as: "[[../../../../../../WikiData/WD~The_Hague,36600|WD~The_Hague,36600]]"
+
 has_time_started: 1201-01-01 
 aliases:
   - The Hague
@@ -183,15 +191,15 @@ Instagram_username: gemeentedenhaag
 # [[Den_Haag]] 
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::4] 
-[has_place_latitude::52.1] 
-[name::Den Haag] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
 Country :: [[Netherlands]]  
 [StateId::] 
 [Population::] 
-#is_/same_as :: [[../../../../../../WikiData/WD~The_Hague,36600|WD~The_Hague,36600]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -242,20 +250,19 @@ maxZoom: 18
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20Hague) 
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Den_Haag](/_Standards/Earth/Continent/Europe/Europe~West/Netherlands/City/Den_Haag.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/Netherlands/City/Den_Haag|Den_Haag]] 
 
-### [Den_Haag.public](/_public/Earth/Continent/Europe/Europe~West/Netherlands/City/Den_Haag.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/Netherlands/City/Den_Haag.public|Den_Haag.public]] 
 
-### [Den_Haag.internal](/_internal/Earth/Continent/Europe/Europe~West/Netherlands/City/Den_Haag.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/Netherlands/City/Den_Haag.internal|Den_Haag.internal]] 
 
-### [Den_Haag.protect](/_protect/Earth/Continent/Europe/Europe~West/Netherlands/City/Den_Haag.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/Netherlands/City/Den_Haag.protect|Den_Haag.protect]] 
 
-### [Den_Haag.private](/_private/Earth/Continent/Europe/Europe~West/Netherlands/City/Den_Haag.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/Netherlands/City/Den_Haag.private|Den_Haag.private]] 
 
-### [Den_Haag.personal](/_personal/Earth/Continent/Europe/Europe~West/Netherlands/City/Den_Haag.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/Netherlands/City/Den_Haag.personal|Den_Haag.personal]] 
 
-### [Den_Haag.secret](/_secret/Earth/Continent/Europe/Europe~West/Netherlands/City/Den_Haag.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/Netherlands/City/Den_Haag.secret|Den_Haag.secret]] 
 

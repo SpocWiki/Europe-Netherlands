@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34295
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 5.9
+dv_has_place_latitude: 51
+dv_name: Sittard
+dv_has_place_country: "[[../../../../../Netherlands]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::5.9] 
-[has_place_latitude::51] 
-[name::Sittard] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 has_place_province::  
-has_place_country:: [[Netherlands]]  
+has_place_country = `=this.dv_has_place_country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sittard](/_Standards/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Limburg/counties~Limburg/Sittard-Geleen/Sittard.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Limburg/counties~Limburg/Sittard-Geleen/Sittard|Sittard]] 
 
-### [Sittard.public](/_public/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Limburg/counties~Limburg/Sittard-Geleen/Sittard.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Limburg/counties~Limburg/Sittard-Geleen/Sittard.public|Sittard.public]] 
 
-### [Sittard.internal](/_internal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Limburg/counties~Limburg/Sittard-Geleen/Sittard.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Limburg/counties~Limburg/Sittard-Geleen/Sittard.internal|Sittard.internal]] 
 
-### [Sittard.protect](/_protect/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Limburg/counties~Limburg/Sittard-Geleen/Sittard.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Limburg/counties~Limburg/Sittard-Geleen/Sittard.protect|Sittard.protect]] 
 
-### [Sittard.private](/_private/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Limburg/counties~Limburg/Sittard-Geleen/Sittard.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Limburg/counties~Limburg/Sittard-Geleen/Sittard.private|Sittard.private]] 
 
-### [Sittard.personal](/_personal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Limburg/counties~Limburg/Sittard-Geleen/Sittard.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Limburg/counties~Limburg/Sittard-Geleen/Sittard.personal|Sittard.personal]] 
 
-### [Sittard.secret](/_secret/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Limburg/counties~Limburg/Sittard-Geleen/Sittard.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/Netherlands/Provinces~Netherlands/Limburg/counties~Limburg/Sittard-Geleen/Sittard.secret|Sittard.secret]] 
 
