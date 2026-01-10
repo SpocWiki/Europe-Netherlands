@@ -17,14 +17,14 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 5.9
 dv_has_place_latitude: 51
-dv_has_name_: Sittard
+dv_has_name: Sittard
 dv_has_place_country: "[[../../../../../Netherlands]]"
 ---
 #is_a_/Place  
 is_a_ = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 has_place_province::  
 has_place_country = `=this.dv_has_place_country`
 [StateId::] 
