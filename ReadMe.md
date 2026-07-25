@@ -27,7 +27,7 @@ dv_UNTERM_Chinese_Formal: 荷兰王国
 dv_UNTERM_French_Formal: le Royaume des Pays-Bas
 dv_UNTERM_Russian: Нидерланды
 dv_UNTERM_Russian_Formal: Королевство Нидерландов
-dv_Region_Name: '[[../../Europe|Europe]]'
+dv_Region_Name: '[[../../../Europe|Europe]]'
 dv_Intermediate_Region_Name: '[[Netherlands]]'
 dv_Sub-region_Name: '[[Western Europe]]'
 dv_Region: 150
@@ -52,7 +52,7 @@ dv_ISO2: NL
 dv_ISO3: NLD
 dv_is_:
   same_as:
-  - '[[../../../../WikiData/WD~Netherlands,55|WD~Netherlands,55]]'
+  - '[[../../../../../WikiData/WD~Netherlands,55|WD~Netherlands,55]]'
   - '[[/_Standards/Earth/Continent/Europe/Europe~West/Netherlands|Netherlands]]'
   - '[[/_public/Earth/Continent/Europe/Europe~West/Netherlands.public|Netherlands.public]]'
   - '[[/_internal/Earth/Continent/Europe/Europe~West/Netherlands.internal|Netherlands.internal]]'
@@ -412,16 +412,16 @@ dv_has_:
 dv_has_name_de: Niederlande
 dv_Area-Total: 41865
 dv_Area-Land: 33920
-dv_has_place_continent: '[[../../Europe|Europe]]'
+dv_has_place_continent: '[[../../../Europe|Europe]]'
 dv_VehicleCode: NL
-dv_Capital: '[[Netherlands/Provinces~Netherlands/Noord-Holland/counties~Noord-Holland/Amsterdam|Amsterdam]]'
+dv_Capital: '[[Provinces~Netherlands/Noord-Holland/counties~Noord-Holland/Amsterdam|Amsterdam]]'
 dv_Alcohol-l: 10.1
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
+dv_is_a_: "[[../../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 5.08828
 dv_has_place_latitude: 51.9757
 dv_developed_developing_countries: Developed
 dv_is_same_as:
-- '[[../../../../WikiData/WD~Netherlands,55|WD~Netherlands,55]]'
+- '[[../../../../../WikiData/WD~Netherlands,55|WD~Netherlands,55]]'
 - '[[/_Standards/Earth/Continent/Europe/Europe~West/Netherlands|Netherlands]]'
 - '[[/_public/Earth/Continent/Europe/Europe~West/Netherlands.public|Netherlands.public]]'
 - '[[/_internal/Earth/Continent/Europe/Europe~West/Netherlands.internal|Netherlands.internal]]'
@@ -694,7 +694,7 @@ Languages:
 - fy-NL
 icon: flag-ne
 member_of:
-- '[[../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299|WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]'
+- '[[../../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299|WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]'
 - '[[/_Standards/WikiData/WD~Food_and_Agriculture_Organization,82151|WD~Food_and_Agriculture_Organization,82151]]'
 - '[[/_Standards/WikiData/WD~International_Civil_Aviation_Organization,125761|WD~International_Civil_Aviation_Organization,125761]]'
 - '[[/_Standards/WikiData/WD~United_Nations_Institute_for_Training_and_Research,131878|WD~United_Nations_Institute_for_Training_and_Research,131878]]'
@@ -773,7 +773,7 @@ coat_of_arms: '[[/_Standards/WikiData/WD~coat_of_arms_of_the_Netherlands,200191|
 history_of_topic: '[[/_Standards/WikiData/WD~history_of_the_Netherlands,238533|WD~history_of_the_Netherlands,238533]]'
 described_by_source:
 - '[[/_Standards/WikiData/WD~Catholic_Encyclopedia,302556|WD~Catholic_Encyclopedia,302556]]'
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
 - '[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
 - '[[/_Standards/WikiData/WD~Draft_History_of_Qing,1374339|WD~Draft_History_of_Qing,1374339]]'
 - '[[/_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721|WD~Gujin_Tushu_Jicheng,1768721]]'
@@ -1197,7 +1197,7 @@ is_a = `=this.dv_is_a_`
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Netherlands/ReadMe|ReadMe]] 
+[[ReadMe|ReadMe]] 
 
 ## #has_/map 
 
@@ -1217,7 +1217,7 @@ markerFile: [[Netherlands]]
 
 ```leaflet
 id: Netherlands_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
@@ -1244,7 +1244,7 @@ VehicleCode = `=this.dv_VehicleCode`
 Capital = `=this.dv_Capital`
 ![[Royal_coat_of_arms_of_the_Netherlands.svg|650]]
 
-![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Netherlands.mp3|Anthem-Netherlands.mp3]]
+![[../../../../../../_public/xLarge.public/National-Anthem/Anthem-Netherlands.mp3|Anthem-Netherlands.mp3]]
 
 ![[Flag_of_the_Netherlands.svg|350]]
 
@@ -1261,15 +1261,15 @@ has_place_latitude = `=this.dv_has_place_latitude`
 
 | City                                                                                                                        | Province                                                                     | Pop@2024 |
 | --------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | -------- |
-| [[Netherlands/Provinces~Netherlands/Noord-Holland/counties~Noord-Holland/Amsterdam\|Amsterdam]]                                               | [[Netherlands/Provinces~Netherlands/Noord-Holland\|North Holland]]           | 933,680  |
-| [[Netherlands/Provinces~Netherlands/Zuid-Holland/City/Rotterdam\|Rotterdam]]                                                | [[Netherlands/Provinces~Netherlands/Zuid-Holland\|South Holland]]            | 655,468  |
-| [[Netherlands/City/Den_Haag\|Den_Haag]]                                                                                     | [[Netherlands/Provinces~Netherlands/Zuid-Holland\|South Holland]]            | 538,000  |
-| [[Netherlands/Provinces~Netherlands/Utrecht,Province/counties~Utrecht/Utrecht-county/Utrecht,City\|Utrecht]]                | [[Netherlands/Provinces~Netherlands/Utrecht,Province\|Utrecht,Province]]     | 375,161  |
-| [[Eindhoven]]                                                                                                               | [[Netherlands/Provinces~Netherlands/Noord-Brabant\|North Brabant]]           | 246,443  |
-| [[Netherlands/Provinces~Netherlands/Noord-Brabant/City/Tilburg\|Tilburg]]                                                   | [[Netherlands/Provinces~Netherlands/Noord-Brabant\|North Brabant]]           | 217,595  |
-| [[Netherlands/Provinces~Netherlands/Groningen,Province/counties~Groningen/Groningen-county/Groningen,City\|Groningen,City]] | [[Netherlands/Provinces~Netherlands/Groningen,Province\|Groningen,Province]] | 233,218  |
-| [[Netherlands/Provinces~Netherlands/Flevoland/counties~Flevoland/Almere\|Almere]]                                           | [[Netherlands/Provinces~Netherlands/Flevoland\|Flevoland]]                   | 216,000  |
-| [[Netherlands/Provinces~Netherlands/Noord-Brabant/City/Breda\|Breda]]                                                       | [[Netherlands/Provinces~Netherlands/Noord-Brabant\|North Brabant]]           | 184,000  |
+| [[Provinces~Netherlands/Noord-Holland/counties~Noord-Holland/Amsterdam/|Amsterdam]]                                               | [[Provinces~Netherlands/Noord-Holland/|North Holland]]           | 933,680  |
+| [[Provinces~Netherlands/Zuid-Holland/City/Rotterdam/|Rotterdam]]                                                | [[Provinces~Netherlands/Zuid-Holland/|South Holland]]            | 655,468  |
+| [[City/Den_Haag/|Den_Haag]]                                                                                     | [[Provinces~Netherlands/Zuid-Holland/|South Holland]]            | 538,000  |
+| [[Provinces~Netherlands/Utrecht,Province/counties~Utrecht/Utrecht-county/Utrecht,City/|Utrecht]]                | [[Provinces~Netherlands/Utrecht,Province/|Utrecht,Province]]     | 375,161  |
+| [[Eindhoven]]                                                                                                               | [[Provinces~Netherlands/Noord-Brabant/|North Brabant]]           | 246,443  |
+| [[Provinces~Netherlands/Noord-Brabant/City/Tilburg/|Tilburg]]                                                   | [[Provinces~Netherlands/Noord-Brabant/|North Brabant]]           | 217,595  |
+| [[Provinces~Netherlands/Groningen,Province/counties~Groningen/Groningen-county/Groningen,City/|Groningen,City]] | [[Provinces~Netherlands/Groningen,Province/|Groningen,Province]] | 233,218  |
+| [[Provinces~Netherlands/Flevoland/counties~Flevoland/Almere/|Almere]]                                           | [[Provinces~Netherlands/Flevoland/|Flevoland]]                   | 216,000  |
+| [[Provinces~Netherlands/Noord-Brabant/City/Breda/|Breda]]                                                       | [[Provinces~Netherlands/Noord-Brabant/|North Brabant]]           | 184,000  |
 
 
 
